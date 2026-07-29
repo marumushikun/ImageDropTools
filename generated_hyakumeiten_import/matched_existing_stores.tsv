@@ -1,0 +1,54 @@
+store_id	tabelog_id	listed_name	prefecture	tabelog_url	primary_genre	category_labels	match_method
+FOD-0775	13050412	ラトリエ ドゥ プレジール	東京都	https://tabelog.com/tokyo/A1318/A131814/13050412/	パン	パン TOKYO	tid
+FOD-0064	3001022	福田パン 長田町本店	岩手県	https://tabelog.com/iwate/A0301/A030101/3001022/	パン	パン EAST	name_pref
+FOD-0456	13203027	SPICY CURRY 魯珈	東京都	https://tabelog.com/tokyo/A1304/A130404/13203027/	カレー	カレー TOKYO	name_pref
+FOD-0667	13001113	トマト	東京都	https://tabelog.com/tokyo/A1319/A131906/13001113/	カレー	カレー TOKYO	tid
+FOD-0431	13120294	カッチャル バッチャル	東京都	https://tabelog.com/tokyo/A1323/A132302/13120294/	カレー	カレー TOKYO	name_pref
+FOD-0489	13158580	カレーライス ディラン	東京都	https://tabelog.com/tokyo/A1310/A131002/13158580/	カレー	カレー TOKYO	tid
+FOD-0615	40035804	Spice&Dining KALA	福岡県	https://tabelog.com/fukuoka/A4006/A400603/40035804/	カレー	カレー WEST	tid
+FOD-0719	27073555	ボタニカリー	大阪府	https://tabelog.com/osaka/A2701/A270102/27073555/	カレー	カレー WEST	tid
+FOD-0739	13178309	麺尊 RAGE	東京都	https://tabelog.com/tokyo/A1319/A131907/13178309/	ラーメン	ラーメン TOKYO	tid
+FOD-0649	13162681	中華そば しば田	東京都	https://tabelog.com/tokyo/A1326/A132601/13162681/	ラーメン	ラーメン TOKYO	tid
+FOD-0740	13111737	麺屋一燈	東京都	https://tabelog.com/tokyo/A1312/A131204/13111737/	ラーメン	ラーメン TOKYO	tid
+FOD-0450	12000422	中華蕎麦 とみ田	千葉県	https://tabelog.com/chiba/A1203/A120302/12000422/	ラーメン	ラーメン EAST	tid
+FOD-0770	14038776	らぁ麺 飯田商店	神奈川県	https://tabelog.com/kanagawa/A1410/A141002/14038776/	ラーメン	ラーメン EAST	tid
+FOD-0011	7000007	坂内食堂	福島県	https://tabelog.com/fukushima/A0706/A070601/7000007/	ラーメン	ラーメン EAST	name_pref
+FOD-0768	28031755	らーめん専門 和海	兵庫県	https://tabelog.com/hyogo/A2803/A280304/28031755/	ラーメン	ラーメン WEST	tid
+FOD-0820	30000653	和 dining 清乃 本店	和歌山県	https://tabelog.com/wakayama/A3002/A300202/30000653/	ラーメン	ラーメン WEST	tid
+FOD-0455	13141364	ジェラテリア アクオリーナ	東京都	https://tabelog.com/tokyo/A1317/A131701/13141364/	スイーツ	スイーツ TOKYO	name_pref
+FOD-0354	13005853	アテスウェイ	東京都	https://tabelog.com/tokyo/A1320/A132001/13005853/	スイーツ	スイーツ TOKYO	name_pref
+FOD-0692	13137010	パティスリー リョーコ	東京都	https://tabelog.com/tokyo/A1316/A131603/13137010/	スイーツ	スイーツ TOKYO	tid
+FOD-0374	13002285	イデミスギノ	東京都	https://tabelog.com/tokyo/A1302/A130202/13002285/	スイーツ	スイーツ TOKYO	name_pref
+FOD-0580	14035784	スイーツガーデン ユウジアジキ	神奈川県	https://tabelog.com/kanagawa/A1401/A140203/14035784/	スイーツ	スイーツ EAST	tid
+FOD-0145	26001669	一文字屋和輔	京都府	https://tabelog.com/kyoto/A2601/A260503/26001669/	スイーツ	スイーツ WEST	name_pref
+FOD-0274	26001672	嘯月	京都府	https://tabelog.com/kyoto/A2601/A260503/26001672/	スイーツ	スイーツ WEST	name_pref
+FOD-0486	37000015	釜あげうどん 長田 in 香の香	香川県	https://tabelog.com/kagawa/A3703/A370302/37000015/	うどん	うどん WEST	tid
+FOD-0581	37000143	須崎食料品店	香川県	https://tabelog.com/kagawa/A3703/A370303/37000143/	うどん	うどん WEST	tid
+FOD-0298	27011240	手造りうどん 楽々	大阪府	https://tabelog.com/osaka/A2707/A270704/27011240/	うどん	うどん WEST	name_pref
+FOD-0023	37000007	山内うどん店	香川県	https://tabelog.com/kagawa/A3703/A370302/37000007/	うどん	うどん WEST	name_pref
+FOD-0021	37000011	谷川米穀店	香川県	https://tabelog.com/kagawa/A3703/A370302/37000011/	うどん	うどん WEST	tid
+FOD-0569	13003776	正泰苑 総本店	東京都	https://tabelog.com/tokyo/A1324/A132401/13003776/	焼肉	焼肉 TOKYO	tid
+FOD-0002	13003777	スタミナ苑	東京都	https://tabelog.com/tokyo/A1323/A132305/13003777/	焼肉	焼肉 TOKYO	name_pref
+FOD-0235	13224635	赤坂 らいもん	東京都	https://tabelog.com/tokyo/A1308/A130801/13224635/	焼肉	焼肉 TOKYO	name_pref
+FOD-0751	13003075	焼肉 ジャンボ 篠崎本店	東京都	https://tabelog.com/tokyo/A1312/A131205/13003075/	焼肉	焼肉 TOKYO	tid
+FOD-0387	13209611	USHIGORO S. NISHIAZABU	東京都	https://tabelog.com/tokyo/A1307/A130701/13209611/	焼肉	焼肉 TOKYO	name_pref
+FOD-0750	13005008	焼肉 銀座コバウ	東京都	https://tabelog.com/tokyo/A1301/A130101/13005008/	焼肉	焼肉 TOKYO	tid
+FOD-0466	13159782	SATOブリアン にごう	東京都	https://tabelog.com/tokyo/A1319/A131905/13159782/	焼肉	焼肉 TOKYO	name_pref
+FOD-0749	13167325	焼肉うしごろ 銀座店	東京都	https://tabelog.com/tokyo/A1301/A130101/13167325/	焼肉	焼肉 TOKYO	tid
+FOD-0329	13042979	よろにく	東京都	https://tabelog.com/tokyo/A1306/A130602/13042979/	焼肉	焼肉 TOKYO	name_pref
+FOD-0748	13226719	焼肉うしごろ 銀座並木通り店	東京都	https://tabelog.com/tokyo/A1301/A130101/13226719/	焼肉	焼肉 TOKYO	tid
+FOD-0681	13165294	生粋	東京都	https://tabelog.com/tokyo/A1311/A131101/13165294/	焼肉	焼肉 TOKYO	tid
+FOD-0618	13175110	炭火焼肉 なかはら	東京都	https://tabelog.com/tokyo/A1309/A130904/13175110/	焼肉	焼肉 TOKYO	tid
+FOD-0386	13222093	USHIGORO S. GINZA	東京都	https://tabelog.com/tokyo/A1301/A130101/13222093/	焼肉	焼肉 TOKYO	name_pref
+FOD-0245	13211927	蕃 YORONIKU	東京都	https://tabelog.com/tokyo/A1303/A130302/13211927/	焼肉	焼肉 TOKYO	manual_same_store_name_variant
+FOD-0752	13110601	焼肉 ジャンボ 本郷店	東京都	https://tabelog.com/tokyo/A1310/A131004/13110601/	焼肉	焼肉 TOKYO	tid
+FOD-0549	13223460	SATOブリアン さんごう	東京都	https://tabelog.com/tokyo/A1319/A131905/13223460/	焼肉	焼肉 TOKYO	tid
+FOD-0385	13012243	焼肉 鶯谷園	東京都	https://tabelog.com/tokyo/A1311/A131104/13012243/	焼肉	焼肉 TOKYO	name_pref
+FOD-0617	13001794	炭火焼 ゆうじ	東京都	https://tabelog.com/tokyo/A1303/A130301/13001794/	焼肉	焼肉 TOKYO	tid
+FOD-0325	13160962	焼肉 ジャンボ はなれ	東京都	https://tabelog.com/tokyo/A1310/A131004/13160962/	焼肉	焼肉 TOKYO	name_pref
+FOD-0472	13001625	炭焼 金竜山	東京都	https://tabelog.com/tokyo/A1316/A131602/13001625/	焼肉	焼肉 TOKYO	name_pref
+FOD-0548	13127046	SATOブリアン 本店	東京都	https://tabelog.com/tokyo/A1319/A131905/13127046/	焼肉	焼肉 TOKYO	tid
+FOD-0551	13216529	サトブリDA	東京都	https://tabelog.com/tokyo/A1319/A131905/13216529/	焼肉	焼肉 TOKYO	tid
+FOD-0682	27052134	生ホルモン処 おさむちゃん。	大阪府	https://tabelog.com/osaka/A2705/A270501/27052134/	焼肉	焼肉 WEST	tid
+FOD-0733	45000273	みょうが屋	宮崎県	https://tabelog.com/miyazaki/A4501/A450101/45000273/	焼肉	焼肉 WEST	tid
+FOD-0528	26000658	グリルフレンチ	京都府	https://tabelog.com/kyoto/A2601/A260203/26000658/	洋食	洋食 全国	tid

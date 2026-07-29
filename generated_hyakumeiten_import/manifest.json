@@ -1,0 +1,33 @@
+{
+  "year": 2020,
+  "genre_count": 7,
+  "category_count": 19,
+  "listing_count": 1905,
+  "existing_store_matches": 53,
+  "new_store_count": 1852,
+  "first_new_store_id": "FOD-0822",
+  "last_new_store_id": "FOD-2673",
+  "first_award_id": "HYK2020-0001",
+  "last_award_id": "HYK2020-1905",
+  "category_counts": {
+    "パン TOKYO": 100,
+    "パン EAST": 100,
+    "パン WEST": 100,
+    "カレー TOKYO": 100,
+    "カレー EAST": 100,
+    "カレー WEST": 100,
+    "ラーメン TOKYO": 100,
+    "ラーメン EAST": 100,
+    "ラーメン WEST": 100,
+    "スイーツ TOKYO": 100,
+    "スイーツ EAST": 100,
+    "スイーツ WEST": 100,
+    "うどん TOKYO": 100,
+    "うどん EAST": 100,
+    "うどん WEST": 105,
+    "焼肉 TOKYO": 100,
+    "焼肉 EAST": 100,
+    "焼肉 WEST": 100,
+    "洋食 全国": 100
+  }
+}
