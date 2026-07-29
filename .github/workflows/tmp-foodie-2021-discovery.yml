@@ -27,6 +27,15 @@ jobs:
         run: |
           python scripts/discover_foodie_2021.py
           python scripts/build_foodie_2021_v2.py
+      - name: Upload verified roster artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: foodie-2021-official
+          path: |
+            generated_2021/stores_2021.tsv
+            generated_2021/histories_2021.tsv
+            generated_2021/verified_manifest.json
+          retention-days: 1
       - name: Commit generated roster files
         run: |
           git add generated_2021/
