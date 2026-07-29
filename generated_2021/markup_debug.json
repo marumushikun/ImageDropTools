@@ -59,8 +59,8 @@
     ],
     "sample_anchors": [
       {
-        "text": "ボータン 神奈川県 長谷駅 不定休",
-        "href": "https://tabelog.com/kanagawa/A1404/A140402/14011457/",
+        "text": "夏目亭 東京都 飯田橋駅 毎週水曜日、第1火曜日",
+        "href": "https://tabelog.com/tokyo/A1309/A130905/13133484/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -72,255 +72,8 @@
         ]
       },
       {
-        "text": "ビストロ エビス 東京都 恵比寿駅 月曜・月1回不定休",
-        "href": "https://tabelog.com/tokyo/A1303/A130302/13113672/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "IZAKAYA VIN 東京都 渋谷駅 日曜日",
-        "href": "https://tabelog.com/tokyo/A1303/A130301/13002063/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "コム・ア・ラ・メゾン 東京都 赤坂駅 日曜",
-        "href": "https://tabelog.com/tokyo/A1308/A130801/13002186/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ブラッスリー・ヴィロン 丸の内店 東京都 東京駅 無休（但し、12/31、1/1及び法定点検日は除く)",
-        "href": "https://tabelog.com/tokyo/A1302/A130201/13020161/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ブション・ドール 東京都 東銀座駅 日曜定休",
-        "href": "https://tabelog.com/tokyo/A1301/A130101/13095796/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ラシーヌ 東京都 池袋駅 無休",
-        "href": "https://tabelog.com/tokyo/A1305/A130501/13100821/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "イレール人形町 東京都 人形町駅 日曜、第3月曜日",
-        "href": "https://tabelog.com/tokyo/A1302/A130204/13160351/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ポンデュガール 東京都 新富町駅 なし",
-        "href": "https://tabelog.com/tokyo/A1313/A131301/13026093/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ヴィノシティ マジス 東京都 神田駅 不定休（満席などの際は近隣の系列店舗、ヴィノシティ神田本店、または年中無休のヴィノシティ・マキシムCOREDO室町店をご利用ください）",
-        "href": "https://tabelog.com/tokyo/A1310/A131002/13131878/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ラ・トォルトゥーガ 大阪府 北浜駅 火曜・水曜",
-        "href": "https://tabelog.com/osaka/A2701/A270102/27003337/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "前芝料理店 大阪府 谷町六丁目駅 水曜日",
-        "href": "https://tabelog.com/osaka/A2701/A270204/27083821/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ビストロ K 中目黒 東京都 中目黒駅 毎週日曜日、祝日（臨時営業の場合は告知いたします。）",
-        "href": "https://tabelog.com/tokyo/A1317/A131701/13115893/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ランデヴー・デ・ザミ 大阪府 南森町駅 詳しくはデザミブログでご確認ください。",
-        "href": "https://tabelog.com/osaka/A2701/A270103/27018410/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "クレッソニエール 東京都 新宿三丁目駅 年中無休",
-        "href": "https://tabelog.com/tokyo/A1304/A130401/13020679/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ビストロ ヴィヴィエンヌ 東京都 東銀座駅 日曜日、第三土曜日",
-        "href": "https://tabelog.com/tokyo/A1301/A130101/13049131/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "レトノ 東京都 八丁堀駅 日曜・祝日・夏季休暇・年末年始",
-        "href": "https://tabelog.com/tokyo/A1302/A130203/13112175/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ビストロ横丁 愛知県 国際センター駅 日曜日、祝日",
-        "href": "https://tabelog.com/aichi/A2301/A230101/23040138/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "bistro oeuf oeuf 東京都 二子玉川駅 月曜日・第２、第４火曜日（祝日の場合翌日振り替え）不定休あり。最新情報で休業日をご確認ください。",
-        "href": "https://tabelog.com/tokyo/A1317/A131708/13120844/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "マルディ・グラ 東京都 新橋駅 日曜日",
-        "href": "https://tabelog.com/tokyo/A1301/A130103/13004991/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "a table 東京都 末広町駅 日曜日（月1日不定休あり）",
-        "href": "https://tabelog.com/tokyo/A1310/A131004/13156948/",
+        "text": "hugo 東京都 都立大学駅 水曜日+α",
+        "href": "https://tabelog.com/tokyo/A1317/A131702/13204402/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -345,8 +98,8 @@
         ]
       },
       {
-        "text": "タツミ 東京都 中目黒駅 火曜日 第3月曜日",
-        "href": "https://tabelog.com/tokyo/A1317/A131701/13124449/",
+        "text": "前芝料理店 大阪府 谷町六丁目駅 水曜日",
+        "href": "https://tabelog.com/osaka/A2701/A270204/27083821/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -358,8 +111,8 @@
         ]
       },
       {
-        "text": "ル モンド グルマン 東京都 自由が丘駅 月曜日 火曜日",
-        "href": "https://tabelog.com/tokyo/A1317/A131703/13187979/",
+        "text": "コンコンブル 東京都 渋谷駅 毎週火曜日のディナータイムお休み頂きます。",
+        "href": "https://tabelog.com/tokyo/A1303/A130301/13004708/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -371,8 +124,8 @@
         ]
       },
       {
-        "text": "ビストロ タカ 東京都 湯島駅 月曜日・第１第３火曜日(月曜日祝日はランチのみ営業・翌火曜休み)",
-        "href": "https://tabelog.com/tokyo/A1311/A131101/13100039/",
+        "text": "ビストロ ダイア 愛知県 新栄町駅 日曜日・第三月曜日、ただし土日月三連休の場合は営業、翌火曜休み。年末年始休業有 祝日の場合営業翌日休み",
+        "href": "https://tabelog.com/aichi/A2301/A230104/23042388/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -384,8 +137,8 @@
         ]
       },
       {
-        "text": "Wineshop & Diner FUJIMARU 浅草橋店 東京都 浅草橋駅 毎週火曜日、水曜日",
-        "href": "https://tabelog.com/tokyo/A1311/A131103/13167076/",
+        "text": "ビストロ K 中目黒 東京都 中目黒駅 毎週日曜日、祝日（臨時営業の場合は告知いたします。）",
+        "href": "https://tabelog.com/tokyo/A1317/A131701/13115893/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -397,21 +150,8 @@
         ]
       },
       {
-        "text": "ダム・ジャンヌ 東京都 神泉駅 日曜日、月曜日",
-        "href": "https://tabelog.com/tokyo/A1303/A130301/13053893/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "Ata 東京都 代官山駅 日曜日",
-        "href": "https://tabelog.com/tokyo/A1303/A130303/13150975/",
+        "text": "ブラッスリーオザミ丸の内 東京都 有楽町駅 無休",
+        "href": "https://tabelog.com/tokyo/A1301/A130102/13005655/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -436,8 +176,268 @@
         ]
       },
       {
-        "text": "ブノワ 東京都 表参道駅 年中無休（年末年始を除く）",
-        "href": "https://tabelog.com/tokyo/A1306/A130602/13019489/",
+        "text": "ル・リオン 東京都 恵比寿駅 日曜日・月1回不定休",
+        "href": "https://tabelog.com/tokyo/A1303/A130302/13027457/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ・ダルテミス 東京都 北参道駅 月曜・第2日曜",
+        "href": "https://tabelog.com/tokyo/A1304/A130403/13030797/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ポアジェ 神奈川県 鎌倉駅 火曜日",
+        "href": "https://tabelog.com/kanagawa/A1404/A140402/14048268/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "Wineshop & Diner FUJIMARU 浅草橋店 東京都 浅草橋駅 毎週火曜日、水曜日",
+        "href": "https://tabelog.com/tokyo/A1311/A131103/13167076/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ジョンティ 東京都 浅草橋駅 水曜日、第3火曜日",
+        "href": "https://tabelog.com/tokyo/A1311/A131103/13091587/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "シャルキュ 東京都 虎ノ門駅 日曜 ＋ 数回不定休",
+        "href": "https://tabelog.com/tokyo/A1308/A130802/13151443/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブラッスリー ポール・ボキューズ ミュゼ 東京都 乃木坂駅 火曜日（祝日の場合は翌日に振替）",
+        "href": "https://tabelog.com/tokyo/A1307/A130701/13033082/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ボン・グゥ 神楽坂 東京都 神楽坂駅 月曜日 第3火曜日",
+        "href": "https://tabelog.com/tokyo/A1309/A130905/13138155/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ウグイス 東京都 三軒茶屋駅 月曜日・第4火曜日",
+        "href": "https://tabelog.com/tokyo/A1317/A131706/13021311/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ドラード 愛知県 栄（名古屋）駅 日曜",
+        "href": "https://tabelog.com/aichi/A2301/A230102/23029870/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "Le Bonze 東京都 東銀座駅 不定休",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13144110/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "グルマンディーズ 東京都 広尾駅 火曜",
+        "href": "https://tabelog.com/tokyo/A1307/A130701/13190448/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "デザミ 東京都 上石神井駅 水曜日",
+        "href": "https://tabelog.com/tokyo/A1321/A132105/13154814/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ヌガ 東京都 東銀座駅 無休（年末年始を除く）",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13048464/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ タカ 東京都 湯島駅 月曜日・第１第３火曜日(月曜日祝日はランチのみ営業・翌火曜休み)",
+        "href": "https://tabelog.com/tokyo/A1311/A131101/13100039/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "カルナヴァル 愛知県 矢場町駅 月曜日",
+        "href": "https://tabelog.com/aichi/A2301/A230103/23007319/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブラッスリー・グー 東京都 牛込神楽坂駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1309/A130905/13000470/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ルフージュ 東京都 内幸町駅 日曜・祝日",
+        "href": "https://tabelog.com/tokyo/A1301/A130103/13126959/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "organ 東京都 西荻窪駅 毎週月曜と第4火曜・水曜",
+        "href": "https://tabelog.com/tokyo/A1319/A131907/13127009/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "サン・ル・スー 東京都 西荻窪駅 月曜・第２第４火曜",
+        "href": "https://tabelog.com/tokyo/A1319/A131907/13000326/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "カメキチ・ビストロ 大阪府 谷町四丁目駅 日曜日、祝日の月曜日、月曜日・土曜日のランチタイム",
+        "href": "https://tabelog.com/osaka/A2701/A270104/27004963/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -510,8 +510,8 @@
     ],
     "sample_anchors": [
       {
-        "text": "麺屋 Hulu-lu 東京都 池袋駅 火曜日",
-        "href": "https://tabelog.com/tokyo/A1305/A130501/13136428/",
+        "text": "初選出 中華ソバ ビリケン 東京都 浅草（東武・都営・メトロ）駅 火曜・不定休（ツイッター インスタでお知らせ）",
+        "href": "https://tabelog.com/tokyo/A1311/A131102/13235761/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -523,8 +523,8 @@
         ]
       },
       {
-        "text": "初選出 中華蕎麦 ひら井 東京都 府中市 第1・3・5月曜日、日曜日",
-        "href": "https://tabelog.com/tokyo/A1326/A132602/13259078/",
+        "text": "町田汁場 しおらーめん進化 本店 東京都 町田市 無休",
+        "href": "https://tabelog.com/tokyo/A1327/A132701/13050023/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -536,8 +536,8 @@
         ]
       },
       {
-        "text": "麺処 晴 東京都 入谷駅 不定休（Twitter確認すべし！)",
-        "href": "https://tabelog.com/tokyo/A1311/A131104/13143115/",
+        "text": "六厘舎 東京都 東京駅 年中無休",
+        "href": "https://tabelog.com/tokyo/A1302/A130201/13093047/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -549,8 +549,8 @@
         ]
       },
       {
-        "text": "カネキッチン ヌードル 東京都 東長崎駅 毎週水曜日（※11/11(月)～11/13(水)はお休みさせて頂きます。）",
-        "href": "https://tabelog.com/tokyo/A1321/A132101/13203355/",
+        "text": "かしわぎ 東京都 東中野駅 火曜",
+        "href": "https://tabelog.com/tokyo/A1319/A131901/13209326/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -562,8 +562,8 @@
         ]
       },
       {
-        "text": "風雲児 東京都 南新宿駅 21年10月から無休営業",
-        "href": "https://tabelog.com/tokyo/A1304/A130401/13044091/",
+        "text": "饗 くろ喜 東京都 浅草橋駅 日・祝",
+        "href": "https://tabelog.com/tokyo/A1310/A131001/13127743/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -575,242 +575,8 @@
         ]
       },
       {
-        "text": "煮干しつけ麺 宮元 東京都 蒲田駅 日曜日",
-        "href": "https://tabelog.com/tokyo/A1315/A131503/13180862/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "麺や 七彩 東京都 八丁堀駅 第3火曜",
-        "href": "https://tabelog.com/tokyo/A1302/A130203/13184399/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "煮干鰮らーめん 圓 八王子本店 東京都 京王八王子駅 無休、毎月第一日曜日のみ20:00閉店",
-        "href": "https://tabelog.com/tokyo/A1329/A132904/13091258/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "麺屋 翔 本店 東京都 西武新宿駅 無休 ※年末年始休業 臨時休業まれにあり",
-        "href": "https://tabelog.com/tokyo/A1304/A130401/13040181/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "中華そば うお青 東京都 万願寺駅 月曜日、日曜日 ※不定期で火曜日も休みの場合があるので店主Instagramをご確認ください。",
-        "href": "https://tabelog.com/tokyo/A1329/A132903/13229181/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "中華そば　堀川 東京都 自由が丘駅 水曜日（臨時休業などの情報は、Twitterに記載。）",
-        "href": "https://tabelog.com/tokyo/A1317/A131703/13243173/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "中華蕎麦 蘭鋳 東京都 方南町駅 土曜・日曜・祝日",
-        "href": "https://tabelog.com/tokyo/A1319/A131903/13113532/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ラーメン二郎 三田本店 東京都 三田駅 日曜・祝日（ほか、臨休あり）",
-        "href": "https://tabelog.com/tokyo/A1314/A131402/13006051/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "銀座 朧月 東京都 銀座駅 不定休",
-        "href": "https://tabelog.com/tokyo/A1301/A130101/13118141/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "中華そば屋 伊藤 東京都 王子神谷駅 不定休",
-        "href": "https://tabelog.com/tokyo/A1323/A132304/13008779/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "初選出 中華そば  さわ 東京都 中板橋駅 火曜日",
-        "href": "https://tabelog.com/tokyo/A1322/A132203/13229011/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ラーメン大至 東京都 御茶ノ水駅 日曜・祝日",
-        "href": "https://tabelog.com/tokyo/A1310/A131002/13042832/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "つけ麺 道 東京都 亀有駅 月～火(らーめん道の塩の営業日が定休日)",
-        "href": "https://tabelog.com/tokyo/A1324/A132403/13094595/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "自家製中華そば としおか 東京都 早稲田（メトロ）駅 日曜",
-        "href": "https://tabelog.com/tokyo/A1305/A130504/13182315/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "宍道湖しじみ中華蕎麦 琥珀 東京都 雑色駅 土曜・日曜・祝日（臨休はTwitterにて告知 @kohaku_iwata）",
-        "href": "https://tabelog.com/tokyo/A1315/A131503/13234195/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "ラーメン 健やか 東京都 三鷹駅 月曜日は煮干ラーメン専門店裏健やかとして営業",
-        "href": "https://tabelog.com/tokyo/A1320/A132002/13207054/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "神保町 黒須 東京都 神保町駅 日曜・祝日",
-        "href": "https://tabelog.com/tokyo/A1310/A131003/13201888/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "キング製麺 東京都 王子駅前駅 【2021年９月】休まず毎日営業します！今月もよろしくお願いします！",
-        "href": "https://tabelog.com/tokyo/A1323/A132303/13232817/",
-        "lineage": [
-          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
-          "div.hyakumeiten-shop__item",
-          "div.hyakumeiten-shop__list",
-          "div.hyakumeiten-shop.js-floating-btn-visible",
-          "div.hyakumeiten-main__contents",
-          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
-          "div.hyakumeiten-main-frame"
-        ]
-      },
-      {
-        "text": "中華そば 和渦 TOKYO 東京都 北品川駅 日曜日",
-        "href": "https://tabelog.com/tokyo/A1314/A131405/13233678/",
+        "text": "らーめん飛粋 東京都 蒲田駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1315/A131503/13217922/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -835,6 +601,71 @@
         ]
       },
       {
+        "text": "麺処 しろくろ 東京都 八幡山駅 月曜日",
+        "href": "https://tabelog.com/tokyo/A1318/A131809/13242508/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば うお青 東京都 万願寺駅 月曜日、日曜日 ※不定期で火曜日も休みの場合があるので店主Instagramをご確認ください。",
+        "href": "https://tabelog.com/tokyo/A1329/A132903/13229181/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン大至 東京都 御茶ノ水駅 日曜・祝日",
+        "href": "https://tabelog.com/tokyo/A1310/A131002/13042832/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "Homemade Ramen 麦苗 東京都 大森海岸駅 水曜日、木曜日(他にも月に数日有。twitterにて確認）",
+        "href": "https://tabelog.com/tokyo/A1315/A131502/13194812/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "麺屋 Hulu-lu 東京都 池袋駅 火曜日",
+        "href": "https://tabelog.com/tokyo/A1305/A130501/13136428/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
         "text": "初選出 中華ソバ ちゃるめ 東京都 糀谷駅 月曜",
         "href": "https://tabelog.com/tokyo/A1315/A131504/13231202/",
         "lineage": [
@@ -848,8 +679,21 @@
         ]
       },
       {
-        "text": "初選出 味噌っ子 ふっく 東京都 荻窪駅 火曜",
-        "href": "https://tabelog.com/tokyo/A1319/A131906/13226777/",
+        "text": "らーめんMAIKAGURA 東京都 千歳船橋駅 月曜日(祝日の場合は翌平日)",
+        "href": "https://tabelog.com/tokyo/A1318/A131813/13218425/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "SOBA HOUSE 金色不如帰 新宿御苑本店 東京都 新宿御苑前駅 土曜日・日曜日",
+        "href": "https://tabelog.com/tokyo/A1304/A130402/13222172/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -874,8 +718,8 @@
         ]
       },
       {
-        "text": "竹末東京Premium 東京都 押上駅 火曜日",
-        "href": "https://tabelog.com/tokyo/A1312/A131203/13167920/",
+        "text": "初選出 中華そば  さわ 東京都 中板橋駅 火曜日",
+        "href": "https://tabelog.com/tokyo/A1322/A132203/13229011/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
@@ -887,8 +731,164 @@
         ]
       },
       {
-        "text": "鶏こく中華 すず喜 東京都 三鷹駅 月曜 (Twitterで確認可)",
-        "href": "https://tabelog.com/tokyo/A1320/A132002/13215409/",
+        "text": "風雲児 東京都 南新宿駅 21年10月から無休営業",
+        "href": "https://tabelog.com/tokyo/A1304/A130401/13044091/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "こうかいぼう 東京都 門前仲町駅 水曜・日曜（※祝日でも定休）",
+        "href": "https://tabelog.com/tokyo/A1313/A131303/13005052/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "麺屋ひょっとこ 交通会館店 東京都 有楽町駅 日・祝",
+        "href": "https://tabelog.com/tokyo/A1301/A130102/13046637/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "つけ麺 道 東京都 亀有駅 月～火(らーめん道の塩の営業日が定休日)",
+        "href": "https://tabelog.com/tokyo/A1324/A132403/13094595/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン 健やか 東京都 三鷹駅 月曜日は煮干ラーメン専門店裏健やかとして営業",
+        "href": "https://tabelog.com/tokyo/A1320/A132002/13207054/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華蕎麦にし乃 東京都 本郷三丁目駅 【2021年９月】休まず毎日営業します！今月もよろしくお願いします！",
+        "href": "https://tabelog.com/tokyo/A1310/A131004/13218311/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 成城青果 東京都 芦花公園駅 不定休",
+        "href": "https://tabelog.com/tokyo/A1318/A131809/13247939/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "カネキッチン ヌードル 東京都 東長崎駅 毎週水曜日（※11/11(月)～11/13(水)はお休みさせて頂きます。）",
+        "href": "https://tabelog.com/tokyo/A1321/A132101/13203355/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "煮干鰮らーめん 圓 八王子本店 東京都 京王八王子駅 無休、毎月第一日曜日のみ20:00閉店",
+        "href": "https://tabelog.com/tokyo/A1329/A132904/13091258/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン巌哲 東京都 早稲田（都電）駅 日曜/祝日の月曜日",
+        "href": "https://tabelog.com/tokyo/A1305/A130504/13167439/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 濃厚ラーメン かなや 東京都 方南町駅 日曜日・月曜日",
+        "href": "https://tabelog.com/tokyo/A1319/A131903/13218139/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "らぁめん小池 東京都 上北沢駅 【2021年９月】休まず毎日営業します！今月もよろしくお願いします！",
+        "href": "https://tabelog.com/tokyo/A1318/A131809/13172994/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば屋 伊藤 東京都 王子神谷駅 不定休",
+        "href": "https://tabelog.com/tokyo/A1323/A132304/13008779/",
         "lineage": [
           "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
           "div.hyakumeiten-shop__item",
