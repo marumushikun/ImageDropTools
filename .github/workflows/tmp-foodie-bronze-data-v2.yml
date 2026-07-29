@@ -1,0 +1,38 @@
+name: tmp-foodie-bronze-data-v2
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+      - name: Generate import files
+        run: python scripts/generate_foodie_bronze.py
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- generated/; then
+            echo "No generated changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          git commit -m "Generate temporary Foodie Bronze import data"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
