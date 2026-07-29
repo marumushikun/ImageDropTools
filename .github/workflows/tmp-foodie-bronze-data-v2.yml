@@ -24,7 +24,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
       - name: Generate import files
-        run: python scripts/generate_foodie_bronze.py
+        run: |
+          python scripts/generate_foodie_bronze.py
+          python scripts/patch_foodie_bronze_genre.py
       - name: Commit generated files
         run: |
           git add generated/
