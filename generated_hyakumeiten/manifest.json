@@ -36,8 +36,8 @@
       "title": "食べログ パン TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "ブーランジェリー・イアナック",
-      "last": "TOLO PAN TOKYO"
+      "first": "ジャンティーユ",
+      "last": "ヒルサイドパントリー 代官山"
     },
     {
       "slug": "bread_east",
@@ -47,8 +47,8 @@
       "title": "食べログ パン EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "ラパン ノワール くろうさぎ",
-      "last": "テーラ・テール"
+      "first": "ブレドール",
+      "last": "パンヤコット"
     },
     {
       "slug": "bread_west",
@@ -58,8 +58,8 @@
       "title": "食べログ パン WEST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "たま木亭",
-      "last": "レディオベーグル"
+      "first": "泉北堂 本店",
+      "last": "リョウイチヤマウチ"
     },
     {
       "slug": "curry_tokyo",
@@ -69,8 +69,8 @@
       "title": "食べログ カレー TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "吉田カレー",
-      "last": "SPICY CURRY 魯珈"
+      "first": "ガヴィアル",
+      "last": "ガンジー"
     },
     {
       "slug": "curry_east",
@@ -80,8 +80,8 @@
       "title": "食べログ カレー EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "唯我独尊",
-      "last": "カフェパハナ"
+      "first": "木多郎 澄川本店",
+      "last": "クロック"
     },
     {
       "slug": "curry_west",
@@ -91,8 +91,8 @@
       "title": "食べログ カレー WEST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "スパイスチャンバー",
-      "last": "スパイスカレーまるせ"
+      "first": "ヴァスコ・ダ・ガマ 本店",
+      "last": "インド食堂TADKA"
     },
     {
       "slug": "ramen_tokyo",
@@ -102,8 +102,8 @@
       "title": "食べログ ラーメン TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "らぁめん 葉月",
-      "last": "むぎとオリーブ 銀座店"
+      "first": "新橋 纏",
+      "last": "食堂七彩"
     },
     {
       "slug": "ramen_east",
@@ -113,8 +113,8 @@
       "title": "食べログ ラーメン EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "杉田家",
-      "last": "濃麺 海月"
+      "first": "麺処 有彩",
+      "last": "坂内食堂"
     },
     {
       "slug": "ramen_west",
@@ -124,8 +124,8 @@
       "title": "食べログ ラーメン WEST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "新宿めんや風花",
-      "last": "らーめん専門 和心 武庫之荘店"
+      "first": "麺屋NOROMA",
+      "last": "無鉄砲 本店"
     },
     {
       "slug": "sweets_tokyo",
@@ -135,8 +135,8 @@
       "title": "食べログ スイーツ TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "廚 菓子 くろぎ",
-      "last": "アディクト オ シュクル"
+      "first": "アルノー・ラエール 広尾本店",
+      "last": "オーボンヴュータン 尾山台店"
     },
     {
       "slug": "sweets_east",
@@ -146,8 +146,8 @@
       "title": "食べログ スイーツ EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "ピエールプレシュウズ 本店",
-      "last": "アングランパ"
+      "first": "アン・プチ・パケ",
+      "last": "プレリュード 福光店"
     },
     {
       "slug": "sweets_west",
@@ -157,8 +157,8 @@
       "title": "食べログ スイーツ WEST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "夢菓房たから",
-      "last": "今西軒"
+      "first": "マツシタキッチン",
+      "last": "ラ・ペッシュ"
     },
     {
       "slug": "udon_tokyo",
@@ -168,8 +168,8 @@
       "title": "食べログ うどん TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "うちたて家",
-      "last": "あんぷく 池袋店"
+      "first": "讃岐うどん いわい",
+      "last": "四ツ木製麺所"
     },
     {
       "slug": "udon_east",
@@ -179,8 +179,8 @@
       "title": "食べログ うどん EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "うどん処 おはな",
-      "last": "千年ニコ天"
+      "first": "手打ちうどんZ",
+      "last": "手打うどん 郁兵衛"
     },
     {
       "slug": "udon_west",
@@ -190,8 +190,8 @@
       "title": "食べログ うどん WEST 百名店 2020 [食べログ]",
       "expected_count": 105,
       "actual_count": 105,
-      "first": "麦香",
-      "last": "釜揚うどん一紀"
+      "first": "あやうた製麺",
+      "last": "がいな製麺所"
     },
     {
       "slug": "yakiniku_tokyo",
@@ -201,8 +201,8 @@
       "title": "食べログ 焼肉 TOKYO 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "生粋",
-      "last": "赤坂 らいもん"
+      "first": "正泰苑 芝大門店",
+      "last": "好ちゃん 飯田橋分家"
     },
     {
       "slug": "yakiniku_east",
@@ -212,8 +212,8 @@
       "title": "食べログ 焼肉 EAST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "龍園",
-      "last": "昇家 池下向陽荘店"
+      "first": "まんぷく",
+      "last": "秋田牛玄亭 駅前本店"
     },
     {
       "slug": "yakiniku_west",
@@ -223,8 +223,8 @@
       "title": "食べログ 焼肉 WEST 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "炭焼肉　石田屋。 Hanare",
-      "last": "さつま"
+      "first": "和牛懐石 但馬屋 梅田",
+      "last": "石垣島 きたうち牧場 美崎店"
     },
     {
       "slug": "yoshoku",
@@ -234,8 +234,8 @@
       "title": "食べログ 洋食 百名店 2020 [食べログ]",
       "expected_count": 100,
       "actual_count": 100,
-      "first": "洋食 おがた",
-      "last": "うちだ"
+      "first": "マルシェ",
+      "last": "kitchen俊貴"
     }
   ]
 }
