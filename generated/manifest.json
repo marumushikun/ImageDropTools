@@ -1,0 +1,14 @@
+{
+  "official_total": 488,
+  "already_registered": 146,
+  "remaining_awards": 342,
+  "new_stores": 341,
+  "reused_store": {
+    "tabelog_id": "37000011",
+    "store_id": "FOD-0021"
+  },
+  "first_store_id": "FOD-0481",
+  "last_store_id": "FOD-0821",
+  "first_award_id": "TBA2020-B-147",
+  "last_award_id": "TBA2020-B-488"
+}
