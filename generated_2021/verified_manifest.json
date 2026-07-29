@@ -1,0 +1,284 @@
+{
+  "year": 2021,
+  "hyakumeiten": {
+    "list_count": 32,
+    "history_count": 3200,
+    "lists": [
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/bistro/2021",
+        "title": "食べログ ビストロ 百名店 2021 [食べログ]",
+        "genre": "ビストロ",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/cafe/2021",
+        "title": "食べログ カフェ 百名店 2021 [食べログ]",
+        "genre": "カフェ",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/chinese_east/2021",
+        "title": "食べログ 中国料理 EAST 百名店 2021 [食べログ]",
+        "genre": "中国料理",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/chinese_tokyo/2021",
+        "title": "食べログ 中国料理 TOKYO 百名店 2021 [食べログ]",
+        "genre": "中国料理",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/chinese_west/2021",
+        "title": "食べログ 中国料理 WEST 百名店 2021 [食べログ]",
+        "genre": "中国料理",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/french_east/2021",
+        "title": "食べログ フレンチ EAST 百名店 2021 [食べログ]",
+        "genre": "フレンチ",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/french_tokyo/2021",
+        "title": "食べログ フレンチ TOKYO 百名店 2021 [食べログ]",
+        "genre": "フレンチ",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 1
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/french_west/2021",
+        "title": "食べログ フレンチ WEST 百名店 2021 [食べログ]",
+        "genre": "フレンチ",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/gyoza/2021",
+        "title": "食べログ 餃子 百名店 2021 [食べログ]",
+        "genre": "餃子",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/hamburger/2021",
+        "title": "食べログ ハンバーガー 百名店 2021 [食べログ]",
+        "genre": "ハンバーガー",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/italian_east/2021",
+        "title": "食べログ イタリアン EAST 百名店 2021 [食べログ]",
+        "genre": "イタリアン",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/italian_tokyo/2021",
+        "title": "食べログ イタリアン TOKYO 百名店 2021 [食べログ]",
+        "genre": "イタリアン",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/italian_west/2021",
+        "title": "食べログ イタリアン WEST 百名店 2021 [食べログ]",
+        "genre": "イタリアン",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/izakaya/2021",
+        "title": "食べログ 居酒屋 百名店 2021 [食べログ]",
+        "genre": "居酒屋",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/japanese_east/2021",
+        "title": "食べログ 日本料理 EAST 百名店 2021 [食べログ]",
+        "genre": "日本料理",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/japanese_tokyo/2021",
+        "title": "食べログ 日本料理 TOKYO 百名店 2021 [食べログ]",
+        "genre": "日本料理",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/japanese_west/2021",
+        "title": "食べログ 日本料理 WEST 百名店 2021 [食べログ]",
+        "genre": "日本料理",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/kissaten/2021",
+        "title": "食べログ 喫茶店 百名店 2021 [食べログ]",
+        "genre": "喫茶店",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/pizza/2021",
+        "title": "食べログ ピザ 百名店 2021 [食べログ]",
+        "genre": "ピザ",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/ramen_east/2021",
+        "title": "食べログ ラーメン EAST 百名店 2021 [食べログ]",
+        "genre": "ラーメン",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/ramen_tokyo/2021",
+        "title": "食べログ ラーメン TOKYO 百名店 2021 [食べログ]",
+        "genre": "ラーメン",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/ramen_west/2021",
+        "title": "食べログ ラーメン WEST 百名店 2021 [食べログ]",
+        "genre": "ラーメン",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/soba/2021",
+        "title": "食べログ そば 百名店 2021 [食べログ]",
+        "genre": "そば",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/sushi_east/2021",
+        "title": "食べログ 寿司 EAST 百名店 2021 [食べログ]",
+        "genre": "寿司",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/sushi_tokyo/2021",
+        "title": "食べログ 寿司 TOKYO 百名店 2021 [食べログ]",
+        "genre": "寿司",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/sushi_west/2021",
+        "title": "食べログ 寿司 WEST 百名店 2021 [食べログ]",
+        "genre": "寿司",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/teishoku/2021",
+        "title": "食べログ 定食 百名店 2021 [食べログ]",
+        "genre": "定食",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/tonkatsu/2021",
+        "title": "食べログ とんかつ 百名店 2021 [食べログ]",
+        "genre": "とんかつ",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/yakiniku_east/2021",
+        "title": "食べログ 焼肉 EAST 百名店 2021 [食べログ]",
+        "genre": "焼肉",
+        "region": "EAST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/yakiniku_tokyo/2021",
+        "title": "食べログ 焼肉 TOKYO 百名店 2021 [食べログ]",
+        "genre": "焼肉",
+        "region": "TOKYO",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/yakiniku_west/2021",
+        "title": "食べログ 焼肉 WEST 百名店 2021 [食べログ]",
+        "genre": "焼肉",
+        "region": "WEST",
+        "count": 100,
+        "url_missing": 0
+      },
+      {
+        "url": "https://award.tabelog.com/hyakumeiten/yakitori/2021",
+        "title": "食べログ 焼鳥 百名店 2021 [食べログ]",
+        "genre": "焼鳥",
+        "region": "全国",
+        "count": 100,
+        "url_missing": 0
+      }
+    ]
+  },
+  "award": {
+    "counts": {
+      "Gold": 32,
+      "Silver": 108,
+      "Bronze": 396
+    },
+    "total": 536,
+    "special_counts": {
+      "Best New Entry": 12
+    }
+  },
+  "total_history_rows": 3736,
+  "unique_store_candidates": 3317,
+  "first_history_id": "HYK2021-0001",
+  "last_history_id": "TBA2021-B-396",
+  "url_missing_history_count": 1,
+  "blank_names": 0,
+  "blank_prefectures": 0,
+  "duplicate_store_keys": 0
+}
