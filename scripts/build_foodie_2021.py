@@ -16,7 +16,7 @@ YEAR = 2021
 OUT = Path("generated_2021")
 OUT.mkdir(exist_ok=True)
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/130 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
 }
 PREF_FULL = {
     "北海道":"北海道","青森":"青森県","青森県":"青森県","岩手":"岩手県","岩手県":"岩手県",
@@ -52,6 +52,14 @@ def tid_from_url(url: str) -> str:
     return match.group(1) if match else ""
 
 
+def normalize_name(value: str) -> str:
+    return re.sub(r"[\s　・･'’\"“”‐‑‒–—―ーｰ]+", "", value or "").lower()
+
+
+def store_key(tid: str, name: str, prefecture: str) -> str:
+    return tid if tid else f"NAME:{normalize_name(name)}|{prefecture}"
+
+
 def clean(value) -> str:
     if value is None:
         return ""
@@ -80,12 +88,11 @@ def parse_hyakumeiten(url: str) -> dict:
     title = soup.title.get_text(" ", strip=True) if soup.title else url
     genre, region = parse_list_label(title)
     records = []
-    seen = set()
-    anchors = soup.select("a.hyakumeiten-shop__target")
-    for order, anchor in enumerate(anchors, start=1):
-        href = urljoin(response.url, anchor.get("href", ""))
+    cards = soup.select("div.hyakumeiten-shop__item")
+    for order, card in enumerate(cards, start=1):
+        anchor = card.select_one("a.hyakumeiten-shop__target")
+        href = urljoin(response.url, anchor.get("href", "")) if anchor else ""
         tid = tid_from_url(href)
-        card = anchor.find_parent("div", class_="hyakumeiten-shop__item") or anchor
         name_node = card.select_one(".hyakumeiten-shop__name")
         area_node = card.select_one(".hyakumeiten-shop__area")
         name = name_node.get_text(" ", strip=True) if name_node else ""
@@ -94,9 +101,6 @@ def parse_hyakumeiten(url: str) -> dict:
         pref_token = area.split()[0] if area else ""
         prefecture = PREF_FULL.get(pref_token, pref_token)
         station = " ".join(area.split()[1:]) if area else ""
-        if not tid or tid in seen:
-            continue
-        seen.add(tid)
         records.append({
             "kind": "百名店",
             "list_title": f"{genre} 百名店",
@@ -108,12 +112,13 @@ def parse_hyakumeiten(url: str) -> dict:
             "station": station,
             "tabelog_url": href,
             "tabelog_id": tid,
+            "store_key": store_key(tid, name, prefecture),
             "source_url": response.url.split("?",1)[0].rstrip("/"),
             "official_order": order,
             "special": "",
         })
     assert len(records) == 100, f"{url}: expected 100 official cards, got {len(records)}"
-    assert all(r["name"] and r["prefecture"] and r["tabelog_id"] for r in records), url
+    assert all(r["name"] and r["prefecture"] and r["store_key"] for r in records), url
     return {"url": response.url.split("?",1)[0].rstrip("/"), "title": title, "genre": genre, "region": region, "records": records}
 
 
@@ -162,6 +167,7 @@ def parse_award_prize(prize: str) -> list[dict]:
                 "station": "",
                 "tabelog_url": href,
                 "tabelog_id": tid,
+                "store_key": store_key(tid, name, prefecture),
                 "source_url": base,
                 "official_order": len(all_records) + 1,
                 "special": " / ".join(specials),
@@ -191,7 +197,7 @@ def main() -> None:
     history_rows = []
     for index, record in enumerate(hyak_records, start=1):
         history_rows.append([
-            f"HYK2021-{index:04d}", record["tabelog_id"], "食べログ", record["list_title"], "百名店",
+            f"HYK2021-{index:04d}", record["store_key"], "食べログ", record["list_title"], "百名店",
             record["genre"], YEAR, record["region"], record["name"], record["prefecture"],
             record["source_url"], 46232, "店舗照合済",
             f"2021年百名店公式選出（{record['list_title']} {record['region']}・公式掲載順 {record['official_order']}/100）",
@@ -203,32 +209,34 @@ def main() -> None:
         prize = record["award_class"]
         prize_counters[prize] += 1
         history_rows.append([
-            f"TBA2021-{prize_prefix[prize]}-{prize_counters[prize]:03d}", record["tabelog_id"], "食べログ",
+            f"TBA2021-{prize_prefix[prize]}-{prize_counters[prize]:03d}", record["store_key"], "食べログ",
             "The Tabelog Award", prize, record["genre"], YEAR, "全国", record["name"], record["prefecture"],
             record["source_url"], 46232, "店舗照合済",
             f"The Tabelog Award 2021 {prize}（公式掲載順 {record['official_order']}）" + (f" / {record['special']}" if record['special'] else ""),
         ])
 
-    # One canonical candidate per Tabelog store ID. Prefer Award metadata, then first Hyakumeiten appearance.
     unique = OrderedDict()
     for record in award_records + hyak_records:
-        tid = record["tabelog_id"]
-        if tid not in unique:
-            unique[tid] = record.copy()
+        key = record["store_key"]
+        if key not in unique:
+            unique[key] = record.copy()
         else:
-            current = unique[tid]
+            current = unique[key]
             if not current.get("genre") and record.get("genre"):
                 current["genre"] = record["genre"]
             if not current.get("prefecture") and record.get("prefecture"):
                 current["prefecture"] = record["prefecture"]
             if not current.get("station") and record.get("station"):
                 current["station"] = record["station"]
+            if not current.get("tabelog_url") and record.get("tabelog_url"):
+                current["tabelog_url"] = record["tabelog_url"]
+                current["tabelog_id"] = record["tabelog_id"]
 
     store_rows = []
-    for record in unique.values():
+    for key, record in unique.items():
         facility_type = "ラーメン店" if record["genre"] == "ラーメン" else "飲食店"
         store_rows.append([
-            record["tabelog_id"], record["name"], record["prefecture"], facility_type, record["genre"],
+            key, record["tabelog_id"], record["name"], record["prefecture"], facility_type, record["genre"],
             record["station"], record["tabelog_url"], record["source_url"],
             "The Tabelog Award / 百名店 2021 公式名簿候補",
         ])
@@ -247,7 +255,7 @@ def main() -> None:
             "list_count": len(hyak_lists),
             "history_count": len(hyak_records),
             "lists": [
-                {"url": item["url"], "title": item["title"], "genre": item["genre"], "region": item["region"], "count": len(item["records"])}
+                {"url": item["url"], "title": item["title"], "genre": item["genre"], "region": item["region"], "count": len(item["records"]), "url_missing": sum(1 for r in item["records"] if not r["tabelog_id"])}
                 for item in hyak_lists
             ],
         },
@@ -257,16 +265,17 @@ def main() -> None:
             "special_counts": special_counts,
         },
         "total_history_rows": len(history_rows),
-        "unique_tabelog_stores": len(store_rows),
+        "unique_store_candidates": len(store_rows),
         "first_history_id": history_rows[0][0],
         "last_history_id": history_rows[-1][0],
-        "blank_names": sum(1 for row in store_rows if not row[1]),
-        "blank_prefectures": sum(1 for row in store_rows if not row[2]),
-        "duplicate_tabelog_ids": len(store_rows) - len({row[0] for row in store_rows}),
+        "url_missing_history_count": sum(1 for r in hyak_records if not r["tabelog_id"]),
+        "blank_names": sum(1 for row in store_rows if not row[2]),
+        "blank_prefectures": sum(1 for row in store_rows if not row[3]),
+        "duplicate_store_keys": len(store_rows) - len({row[0] for row in store_rows}),
     }
     assert manifest["blank_names"] == 0
     assert manifest["blank_prefectures"] == 0
-    assert manifest["duplicate_tabelog_ids"] == 0
+    assert manifest["duplicate_store_keys"] == 0
     (OUT / "verified_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(manifest, ensure_ascii=False, indent=2))
 
