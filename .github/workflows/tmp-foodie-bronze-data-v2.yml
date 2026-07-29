@@ -27,6 +27,7 @@ jobs:
         run: |
           python scripts/generate_foodie_bronze.py
           python scripts/patch_foodie_bronze_genre.py
+          python scripts/canonicalize_foodie_urls.py
       - name: Commit generated files
         run: |
           git add generated/
