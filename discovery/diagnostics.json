@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://award.tabelog.com/robots.txt",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/robots.txt",
+    "bytes": 388,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/sitemap.xml",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/sitemap.xml",
+    "bytes": 12649,
+    "content_type": "application/xml"
+  },
+  {
+    "url": "https://award.tabelog.com/sitemap_index.xml",
+    "status": 404,
+    "final_url": "https://award.tabelog.com/sitemap_index.xml",
+    "bytes": 2428,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/",
+    "bytes": 149171,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/hyakumeiten",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten",
+    "bytes": 165348,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/hyakumeiten/",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/",
+    "bytes": 165348,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "bytes": 446068,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=award.tabelog.com/hyakumeiten/*/2020&output=json&fl=original,statuscode,timestamp&filter=statuscode:200&filter=collapse:urlkey&limit=10000",
+    "status": 400,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=award.tabelog.com/hyakumeiten/*/2020&output=json&fl=original,statuscode,timestamp&filter=statuscode:200&filter=collapse:urlkey&limit=10000",
+    "bytes": 0,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Faward.tabelog.com%2Fhyakumeiten%2F*%2F2020%2F&output=json&fl=original,statuscode,timestamp&filter=statuscode:200&filter=collapse:urlkey&limit=10000",
+    "status": 400,
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Faward.tabelog.com%2Fhyakumeiten%2F*%2F2020%2F&output=json&fl=original,statuscode,timestamp&filter=statuscode:200&filter=collapse:urlkey&limit=10000",
+    "bytes": 0,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://index.commoncrawl.org/collinfo.json",
+    "status": 200,
+    "final_url": "https://index.commoncrawl.org/collinfo.json",
+    "bytes": 34675,
+    "content_type": "application/json"
+  },
+  {
+    "url": "https://index.commoncrawl.org/CC-MAIN-2026-30-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "status": 502,
+    "final_url": "https://index.commoncrawl.org/CC-MAIN-2026-30-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "bytes": 559,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://index.commoncrawl.org/CC-MAIN-2026-25-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "status": 404,
+    "final_url": "https://index.commoncrawl.org/CC-MAIN-2026-25-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "bytes": 74,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://index.commoncrawl.org/CC-MAIN-2026-21-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "status": 404,
+    "final_url": "https://index.commoncrawl.org/CC-MAIN-2026-21-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "bytes": 74,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://index.commoncrawl.org/CC-MAIN-2026-17-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "status": 404,
+    "final_url": "https://index.commoncrawl.org/CC-MAIN-2026-17-index?url=award.tabelog.com%2Fhyakumeiten%2F*%2F2020&output=json&filter=status%3A200&filter=mime%3Atext%2Fhtml&collapse=urlkey",
+    "bytes": 74,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "bytes": 446068,
+    "content_type": "text/html; charset=utf-8"
+  }
+]

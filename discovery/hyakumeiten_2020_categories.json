@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "slug": "yoshoku",
+    "live": true,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "title": "食べログ 洋食 百名店 2020 [食べログ]",
+    "contains_2020": true,
+    "restaurant_link_count_raw": 104,
+    "restaurant_link_count_unique": 104,
+    "restaurant_link_sample": [
+      {
+        "text": "みかわや 東京都 銀座駅 年中無休 3.73",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13002421/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "麻布食堂 東京都 広尾駅 日曜日、月曜日、祝祭日 3.77",
+        "href": "https://tabelog.com/tokyo/A1307/A130703/13243727/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "おまかせ亭 東京都 渋谷駅 日曜日はお休みを頂いています。 3.67",
+        "href": "https://tabelog.com/tokyo/A1303/A130301/13007048/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "重亭 大阪府 難波（南海）駅 火曜（祝日の場合は翌日） 3.68",
+        "href": "https://tabelog.com/osaka/A2701/A270202/27001308/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "七條 東京都 小川町駅 日曜、祝日、第2･4土曜 3.76",
+        "href": "https://tabelog.com/tokyo/A1310/A131002/13152996/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "御堂筋 ロッヂ 大阪府 心斎橋駅 月曜日 3.71",
+        "href": "https://tabelog.com/osaka/A2701/A270201/27059987/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "洋食の店　みしな 京都府 祇園四条駅 水曜・第１第３木曜（祝日の場合は翌日） 3.69",
+        "href": "https://tabelog.com/kyoto/A2601/A260301/26001870/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      },
+      {
+        "text": "グリル一平 三宮店 兵庫県 三ノ宮（ＪＲ）駅 水曜日 第三火曜日 3.7",
+        "href": "https://tabelog.com/hyogo/A2801/A280101/28031154/",
+        "class": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ]
+      }
+    ],
+    "sources": [
+      "official-link:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "official-text:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  }
+]
