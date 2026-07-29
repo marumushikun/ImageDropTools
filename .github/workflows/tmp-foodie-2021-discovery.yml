@@ -13,7 +13,7 @@ jobs:
   discover:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -23,12 +23,11 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
-      - name: Discover 2021 official lists
+      - name: Build verified 2021 official rosters
         run: |
           python scripts/discover_foodie_2021.py
-          python scripts/debug_foodie_2021_markup.py
-          python scripts/debug_foodie_2021_card.py
-      - name: Commit generated discovery files
+          python scripts/build_foodie_2021.py
+      - name: Commit generated roster files
         run: |
           git add generated_2021/
           if git diff --cached --quiet; then
@@ -37,5 +36,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Generate temporary Foodie 2021 discovery data"
+          git commit -m "Generate temporary Foodie 2021 official roster data"
           git push origin HEAD:${{ github.head_ref || github.ref_name }}
