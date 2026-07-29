@@ -26,7 +26,7 @@ jobs:
       - name: Build verified 2021 official rosters
         run: |
           python scripts/discover_foodie_2021.py
-          python scripts/build_foodie_2021.py
+          python scripts/build_foodie_2021_v2.py
       - name: Commit generated roster files
         run: |
           git add generated_2021/
