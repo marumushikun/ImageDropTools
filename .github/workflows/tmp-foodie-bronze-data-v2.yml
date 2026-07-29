@@ -27,12 +27,12 @@ jobs:
         run: python scripts/generate_foodie_bronze.py
       - name: Commit generated files
         run: |
-          if git diff --quiet -- generated/; then
+          git add generated/
+          if git diff --cached --quiet; then
             echo "No generated changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/
           git commit -m "Generate temporary Foodie Bronze import data"
           git push origin HEAD:${{ github.head_ref || github.ref_name }}
