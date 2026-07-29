@@ -1,0 +1,38 @@
+name: tmp-foodie-2021-discovery
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+      - name: Discover 2021 official lists
+        run: python scripts/discover_foodie_2021.py
+      - name: Commit generated discovery files
+        run: |
+          git add generated_2021/
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Generate temporary Foodie 2021 discovery data"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
