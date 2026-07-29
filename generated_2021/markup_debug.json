@@ -1,0 +1,1335 @@
+{
+  "https://award.tabelog.com/hyakumeiten/bistro/2021": {
+    "status": 200,
+    "title": "食べログ ビストロ 百名店 2021 [食べログ]",
+    "anchor_count": 103,
+    "top_ancestor_classes": [
+      [
+        "div.hyakumeiten-main-frame",
+        103
+      ],
+      [
+        "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop__item",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop__list",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop.js-floating-btn-visible",
+        100
+      ],
+      [
+        "div.hyakumeiten-main__contents",
+        100
+      ],
+      [
+        "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+        100
+      ],
+      [
+        "a.hyakumeiten-magazine__cassette-target.js-sitecatalyst-link-track",
+        3
+      ],
+      [
+        "li.hyakumeiten-magazine__cassette",
+        3
+      ],
+      [
+        "ul.hyakumeiten-magazine__frame.js-magazine-cassette.is-slide",
+        3
+      ],
+      [
+        "div.hyakumeiten-magazine__inner",
+        3
+      ],
+      [
+        "div.js-fadein.hyakumeiten-magazine",
+        3
+      ],
+      [
+        "div.hyakumeiten-contents",
+        3
+      ]
+    ],
+    "sample_anchors": [
+      {
+        "text": "ボータン 神奈川県 長谷駅 不定休",
+        "href": "https://tabelog.com/kanagawa/A1404/A140402/14011457/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ エビス 東京都 恵比寿駅 月曜・月1回不定休",
+        "href": "https://tabelog.com/tokyo/A1303/A130302/13113672/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "IZAKAYA VIN 東京都 渋谷駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1303/A130301/13002063/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "コム・ア・ラ・メゾン 東京都 赤坂駅 日曜",
+        "href": "https://tabelog.com/tokyo/A1308/A130801/13002186/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブラッスリー・ヴィロン 丸の内店 東京都 東京駅 無休（但し、12/31、1/1及び法定点検日は除く)",
+        "href": "https://tabelog.com/tokyo/A1302/A130201/13020161/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブション・ドール 東京都 東銀座駅 日曜定休",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13095796/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラシーヌ 東京都 池袋駅 無休",
+        "href": "https://tabelog.com/tokyo/A1305/A130501/13100821/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "イレール人形町 東京都 人形町駅 日曜、第3月曜日",
+        "href": "https://tabelog.com/tokyo/A1302/A130204/13160351/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ポンデュガール 東京都 新富町駅 なし",
+        "href": "https://tabelog.com/tokyo/A1313/A131301/13026093/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ヴィノシティ マジス 東京都 神田駅 不定休（満席などの際は近隣の系列店舗、ヴィノシティ神田本店、または年中無休のヴィノシティ・マキシムCOREDO室町店をご利用ください）",
+        "href": "https://tabelog.com/tokyo/A1310/A131002/13131878/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラ・トォルトゥーガ 大阪府 北浜駅 火曜・水曜",
+        "href": "https://tabelog.com/osaka/A2701/A270102/27003337/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "前芝料理店 大阪府 谷町六丁目駅 水曜日",
+        "href": "https://tabelog.com/osaka/A2701/A270204/27083821/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ K 中目黒 東京都 中目黒駅 毎週日曜日、祝日（臨時営業の場合は告知いたします。）",
+        "href": "https://tabelog.com/tokyo/A1317/A131701/13115893/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ランデヴー・デ・ザミ 大阪府 南森町駅 詳しくはデザミブログでご確認ください。",
+        "href": "https://tabelog.com/osaka/A2701/A270103/27018410/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "クレッソニエール 東京都 新宿三丁目駅 年中無休",
+        "href": "https://tabelog.com/tokyo/A1304/A130401/13020679/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ ヴィヴィエンヌ 東京都 東銀座駅 日曜日、第三土曜日",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13049131/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "レトノ 東京都 八丁堀駅 日曜・祝日・夏季休暇・年末年始",
+        "href": "https://tabelog.com/tokyo/A1302/A130203/13112175/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ横丁 愛知県 国際センター駅 日曜日、祝日",
+        "href": "https://tabelog.com/aichi/A2301/A230101/23040138/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "bistro oeuf oeuf 東京都 二子玉川駅 月曜日・第２、第４火曜日（祝日の場合翌日振り替え）不定休あり。最新情報で休業日をご確認ください。",
+        "href": "https://tabelog.com/tokyo/A1317/A131708/13120844/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "マルディ・グラ 東京都 新橋駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1301/A130103/13004991/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "a table 東京都 末広町駅 日曜日（月1日不定休あり）",
+        "href": "https://tabelog.com/tokyo/A1310/A131004/13156948/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブラッスリー・ヴィロン 渋谷店 東京都 神泉駅 無休",
+        "href": "https://tabelog.com/tokyo/A1303/A130301/13004627/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "タツミ 東京都 中目黒駅 火曜日 第3月曜日",
+        "href": "https://tabelog.com/tokyo/A1317/A131701/13124449/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ル モンド グルマン 東京都 自由が丘駅 月曜日 火曜日",
+        "href": "https://tabelog.com/tokyo/A1317/A131703/13187979/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ タカ 東京都 湯島駅 月曜日・第１第３火曜日(月曜日祝日はランチのみ営業・翌火曜休み)",
+        "href": "https://tabelog.com/tokyo/A1311/A131101/13100039/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "Wineshop & Diner FUJIMARU 浅草橋店 東京都 浅草橋駅 毎週火曜日、水曜日",
+        "href": "https://tabelog.com/tokyo/A1311/A131103/13167076/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ダム・ジャンヌ 東京都 神泉駅 日曜日、月曜日",
+        "href": "https://tabelog.com/tokyo/A1303/A130301/13053893/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "Ata 東京都 代官山駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1303/A130303/13150975/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ビストロ シャンパーニュ 大阪府 北新地駅 日曜日・祝日",
+        "href": "https://tabelog.com/osaka/A2701/A270101/27046512/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ブノワ 東京都 表参道駅 年中無休（年末年始を除く）",
+        "href": "https://tabelog.com/tokyo/A1306/A130602/13019489/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      }
+    ]
+  },
+  "https://award.tabelog.com/hyakumeiten/ramen_tokyo/2021": {
+    "status": 200,
+    "title": "食べログ ラーメン TOKYO 百名店 2021 [食べログ]",
+    "anchor_count": 109,
+    "top_ancestor_classes": [
+      [
+        "div.hyakumeiten-main-frame",
+        109
+      ],
+      [
+        "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop__item",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop__list",
+        100
+      ],
+      [
+        "div.hyakumeiten-shop.js-floating-btn-visible",
+        100
+      ],
+      [
+        "div.hyakumeiten-main__contents",
+        100
+      ],
+      [
+        "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+        100
+      ],
+      [
+        "a.hyakumeiten-magazine__cassette-target.js-sitecatalyst-link-track",
+        9
+      ],
+      [
+        "li.hyakumeiten-magazine__cassette",
+        9
+      ],
+      [
+        "ul.hyakumeiten-magazine__frame.js-magazine-cassette.is-slide",
+        9
+      ],
+      [
+        "div.hyakumeiten-magazine__inner",
+        9
+      ],
+      [
+        "div.js-fadein.hyakumeiten-magazine",
+        9
+      ],
+      [
+        "div.hyakumeiten-contents",
+        9
+      ]
+    ],
+    "sample_anchors": [
+      {
+        "text": "麺屋 Hulu-lu 東京都 池袋駅 火曜日",
+        "href": "https://tabelog.com/tokyo/A1305/A130501/13136428/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 中華蕎麦 ひら井 東京都 府中市 第1・3・5月曜日、日曜日",
+        "href": "https://tabelog.com/tokyo/A1326/A132602/13259078/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "麺処 晴 東京都 入谷駅 不定休（Twitter確認すべし！)",
+        "href": "https://tabelog.com/tokyo/A1311/A131104/13143115/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "カネキッチン ヌードル 東京都 東長崎駅 毎週水曜日（※11/11(月)～11/13(水)はお休みさせて頂きます。）",
+        "href": "https://tabelog.com/tokyo/A1321/A132101/13203355/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "風雲児 東京都 南新宿駅 21年10月から無休営業",
+        "href": "https://tabelog.com/tokyo/A1304/A130401/13044091/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "煮干しつけ麺 宮元 東京都 蒲田駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1315/A131503/13180862/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "麺や 七彩 東京都 八丁堀駅 第3火曜",
+        "href": "https://tabelog.com/tokyo/A1302/A130203/13184399/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "煮干鰮らーめん 圓 八王子本店 東京都 京王八王子駅 無休、毎月第一日曜日のみ20:00閉店",
+        "href": "https://tabelog.com/tokyo/A1329/A132904/13091258/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "麺屋 翔 本店 東京都 西武新宿駅 無休 ※年末年始休業 臨時休業まれにあり",
+        "href": "https://tabelog.com/tokyo/A1304/A130401/13040181/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば うお青 東京都 万願寺駅 月曜日、日曜日 ※不定期で火曜日も休みの場合があるので店主Instagramをご確認ください。",
+        "href": "https://tabelog.com/tokyo/A1329/A132903/13229181/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば　堀川 東京都 自由が丘駅 水曜日（臨時休業などの情報は、Twitterに記載。）",
+        "href": "https://tabelog.com/tokyo/A1317/A131703/13243173/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華蕎麦 蘭鋳 東京都 方南町駅 土曜・日曜・祝日",
+        "href": "https://tabelog.com/tokyo/A1319/A131903/13113532/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン二郎 三田本店 東京都 三田駅 日曜・祝日（ほか、臨休あり）",
+        "href": "https://tabelog.com/tokyo/A1314/A131402/13006051/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "銀座 朧月 東京都 銀座駅 不定休",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13118141/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば屋 伊藤 東京都 王子神谷駅 不定休",
+        "href": "https://tabelog.com/tokyo/A1323/A132304/13008779/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 中華そば  さわ 東京都 中板橋駅 火曜日",
+        "href": "https://tabelog.com/tokyo/A1322/A132203/13229011/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン大至 東京都 御茶ノ水駅 日曜・祝日",
+        "href": "https://tabelog.com/tokyo/A1310/A131002/13042832/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "つけ麺 道 東京都 亀有駅 月～火(らーめん道の塩の営業日が定休日)",
+        "href": "https://tabelog.com/tokyo/A1324/A132403/13094595/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "自家製中華そば としおか 東京都 早稲田（メトロ）駅 日曜",
+        "href": "https://tabelog.com/tokyo/A1305/A130504/13182315/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "宍道湖しじみ中華蕎麦 琥珀 東京都 雑色駅 土曜・日曜・祝日（臨休はTwitterにて告知 @kohaku_iwata）",
+        "href": "https://tabelog.com/tokyo/A1315/A131503/13234195/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "ラーメン 健やか 東京都 三鷹駅 月曜日は煮干ラーメン専門店裏健やかとして営業",
+        "href": "https://tabelog.com/tokyo/A1320/A132002/13207054/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "神保町 黒須 東京都 神保町駅 日曜・祝日",
+        "href": "https://tabelog.com/tokyo/A1310/A131003/13201888/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "キング製麺 東京都 王子駅前駅 【2021年９月】休まず毎日営業します！今月もよろしくお願いします！",
+        "href": "https://tabelog.com/tokyo/A1323/A132303/13232817/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "中華そば 和渦 TOKYO 東京都 北品川駅 日曜日",
+        "href": "https://tabelog.com/tokyo/A1314/A131405/13233678/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "煮干そば 流。 東京都 十条駅 火曜",
+        "href": "https://tabelog.com/tokyo/A1323/A132304/13175140/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 中華ソバ ちゃるめ 東京都 糀谷駅 月曜",
+        "href": "https://tabelog.com/tokyo/A1315/A131504/13231202/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "初選出 味噌っ子 ふっく 東京都 荻窪駅 火曜",
+        "href": "https://tabelog.com/tokyo/A1319/A131906/13226777/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "一条流がんこラーメン総本家 東京都 四谷三丁目駅 不定休（公式ブログを参照のこと 当日朝に臨時休業のお知らせが入ることもあります）",
+        "href": "https://tabelog.com/tokyo/A1309/A130903/13126058/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "竹末東京Premium 東京都 押上駅 火曜日",
+        "href": "https://tabelog.com/tokyo/A1312/A131203/13167920/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      },
+      {
+        "text": "鶏こく中華 すず喜 東京都 三鷹駅 月曜 (Twitterで確認可)",
+        "href": "https://tabelog.com/tokyo/A1320/A132002/13215409/",
+        "lineage": [
+          "a.hyakumeiten-shop__target.js-sitecatalyst-link-track",
+          "div.hyakumeiten-shop__item",
+          "div.hyakumeiten-shop__list",
+          "div.hyakumeiten-shop.js-floating-btn-visible",
+          "div.hyakumeiten-main__contents",
+          "div.hyakumeiten-main.hyakumeiten-main--rstlst",
+          "div.hyakumeiten-main-frame"
+        ]
+      }
+    ]
+  },
+  "https://award.tabelog.com/2021/restaurants/bronze": {
+    "status": 200,
+    "title": "Bronze（ブロンズ）の受賞店検索｜The Tabelog Award 2021 [食べログ]",
+    "anchor_count": 100,
+    "top_ancestor_classes": [
+      [
+        "a.award2021-rstlst__target",
+        100
+      ],
+      [
+        "ul.award2021-rstlst__list",
+        100
+      ],
+      [
+        "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+        100
+      ],
+      [
+        "div.module-blur-contents.js-contents-blur",
+        100
+      ],
+      [
+        "div.award2021-rstlst",
+        100
+      ],
+      [
+        "body",
+        100
+      ],
+      [
+        "li.award2021-rstlst__item",
+        75
+      ],
+      [
+        "li.award2021-rstlst__item.js-cassette-4row",
+        25
+      ]
+    ],
+    "sample_anchors": [
+      {
+        "text": "BRONZE 赤坂 詠月 Eigetsu 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1308/A130801/13116523/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 赤坂 菊乃井 Akasaka Kikunoi 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1308/A130801/13002514/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 赤坂 きた福 Akasaka Kitafuku 魚介料理・海鮮料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1308/A130801/13149065/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 秋田 てんぷら みかわ Mikawa 天ぷら / 秋田",
+        "href": "https://tabelog.com/akita/A0501/A050101/5007142/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE aki nagao aki nagao フレンチ / 北海道",
+        "href": "https://tabelog.com/hokkaido/A0101/A010103/1028665/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE ASAHINA Gastronome ASAHINA Gastronome フレンチ / 東京",
+        "href": "https://tabelog.com/tokyo/A1302/A130203/13227385/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 麻布 かどわき Kadowaki 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1307/A130702/13001664/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 麻布十番 ふくだ Fukuda 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1307/A130702/13174951/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 麻布 幸村 Yukimura 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1307/A130702/13005316/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 味あら井 Aji Arai 日本料理 / 大分",
+        "href": "https://tabelog.com/oita/A4404/A440401/44006115/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 味ひろ Ajihiro 日本料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1313/A131301/13200027/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 味満ん Ajiman 魚介料理・海鮮料理 / 東京",
+        "href": "https://tabelog.com/tokyo/A1307/A130701/13001332/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE AZUR et MASA UEKI AZUR et MASA UEKI フレンチ / 東京",
+        "href": "https://tabelog.com/tokyo/A1307/A130701/13206559/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE Äta Äta フレンチ / 東京",
+        "href": "https://tabelog.com/tokyo/A1303/A130303/13150975/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE acca acca イタリアン / 岡山",
+        "href": "https://tabelog.com/okayama/A3305/A330502/33012069/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アテスウェイ à tes souhaits! スイーツ / 東京",
+        "href": "https://tabelog.com/tokyo/A1320/A132001/13005853/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アドゥエパッシ A due passi イタリアン / 岐阜",
+        "href": "https://tabelog.com/gifu/A2101/A210104/21014394/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アニエルドール agnel d'or フレンチ / 大阪",
+        "href": "https://tabelog.com/osaka/A2701/A270105/27074473/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アピシウス APICIUS フレンチ / 東京",
+        "href": "https://tabelog.com/tokyo/A1301/A130102/13000145/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE あま木 Amaki 寿司 / 愛知",
+        "href": "https://tabelog.com/aichi/A2301/A230103/23057712/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE AMOUR AMOUR フレンチ / 東京",
+        "href": "https://tabelog.com/tokyo/A1303/A130302/13142028/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 飴源 Amegen 魚介料理・海鮮料理 / 佐賀",
+        "href": "https://tabelog.com/saga/A4102/A410201/41000056/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 綾小路 唐津 Ayanokoji Karatsu 日本料理 / 京都",
+        "href": "https://tabelog.com/kyoto/A2601/A260201/26029825/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 麤皮 ARAGAWA ステーキ・鉄板焼き / 兵庫",
+        "href": "https://tabelog.com/hyogo/A2801/A280101/28000962/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アラルデ Alarde スペイン料理 / 大阪",
+        "href": "https://tabelog.com/osaka/A2701/A270106/27090095/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 鮨処 有馬 Arima 寿司 / 北海道",
+        "href": "https://tabelog.com/hokkaido/A0101/A010102/1000457/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE ARMONICO ARMONICO イタリアン / 東京",
+        "href": "https://tabelog.com/tokyo/A1303/A130303/13156479/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE アロマフレスカ Ristorante Aròma-frèsca イタリアン / 東京",
+        "href": "https://tabelog.com/tokyo/A1301/A130101/13129298/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 淡 如雲 Awai Jyoun 日本料理 / 愛知",
+        "href": "https://tabelog.com/aichi/A2301/A230101/23061308/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item.js-cassette-4row",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      },
+      {
+        "text": "BRONZE 安久 Ankyu 日本料理 / 京都",
+        "href": "https://tabelog.com/kyoto/A2601/A260301/26018405/",
+        "lineage": [
+          "a.award2021-rstlst__target",
+          "li.award2021-rstlst__item",
+          "ul.award2021-rstlst__list",
+          "div.award2021-rstlst__main.module-motion-contents.js-cassette-list",
+          "div.module-blur-contents.js-contents-blur",
+          "div.award2021-rstlst",
+          "body"
+        ]
+      }
+    ]
+  }
+}
