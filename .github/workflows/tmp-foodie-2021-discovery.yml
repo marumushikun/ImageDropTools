@@ -27,6 +27,7 @@ jobs:
         run: |
           python scripts/discover_foodie_2021.py
           python scripts/debug_foodie_2021_markup.py
+          python scripts/debug_foodie_2021_card.py
       - name: Commit generated discovery files
         run: |
           git add generated_2021/
