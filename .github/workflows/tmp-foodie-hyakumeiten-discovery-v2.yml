@@ -1,0 +1,172 @@
+name: tmp-foodie-hyakumeiten-discovery-v2
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+      - name: Discover and verify every 2020 category
+        run: |
+          cat > /tmp/discover_v2.py <<'PY'
+          from __future__ import annotations
+          import json, re
+          from pathlib import Path
+          from urllib.parse import urljoin, urlparse, urldefrag
+          import requests
+          from bs4 import BeautifulSoup
+
+          OUT = Path('discovery_v2')
+          OUT.mkdir(exist_ok=True)
+          S = requests.Session()
+          S.headers.update({'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/130 Safari/537.36'})
+          slug_re = re.compile(r'/hyakumeiten/([^/?#]+)/?(?:([12][0-9]{3})/?)?(?:[?#].*)?$')
+          exact_2020_re = re.compile(r'^https?://award\.tabelog\.com/hyakumeiten/([^/?#]+)/2020/?(?:[?#].*)?$')
+          # Tabelog restaurant detail URL, excluding reviews/articles/user pages.
+          rest_re = re.compile(r'^https?://tabelog\.com/[^/]+/A\d+/A\d+/\d+/?(?:[?#].*)?$', re.I)
+          logs = []
+
+          def get(url, timeout=90):
+              try:
+                  r = S.get(url, timeout=timeout, allow_redirects=True)
+                  logs.append({'url':url,'status':r.status_code,'final_url':r.url,'bytes':len(r.content),'type':r.headers.get('content-type','')})
+                  return r
+              except Exception as e:
+                  logs.append({'url':url,'error':repr(e)})
+                  return None
+
+          slugs = set()
+          source_by_slug = {}
+          def add_slug(slug, source):
+              if not slug or slug in {'ranking','reviewer'}:
+                  return
+              slugs.add(slug)
+              source_by_slug.setdefault(slug,set()).add(source)
+
+          # Sitemap is authoritative for currently exposed category URLs.
+          r = get('https://award.tabelog.com/sitemap.xml')
+          sitemap_locs = []
+          if r and r.status_code == 200:
+              (OUT/'sitemap.xml').write_bytes(r.content)
+              soup = BeautifulSoup(r.content, 'xml')
+              for loc in soup.find_all('loc'):
+                  u = loc.get_text(strip=True)
+                  sitemap_locs.append(u)
+                  m = slug_re.search(urlparse(u).path)
+                  if m:
+                      add_slug(m.group(1), 'sitemap')
+
+          # Root/current page and a known 2020 page expose the category navigation.
+          seeds = [
+              'https://award.tabelog.com/hyakumeiten/',
+              'https://award.tabelog.com/hyakumeiten/yoshoku/2020',
+          ]
+          for seed in seeds:
+              rr = get(seed)
+              if not rr or rr.status_code != 200:
+                  continue
+              soup = BeautifulSoup(rr.content, 'lxml')
+              for a in soup.select('a[href]'):
+                  u = urldefrag(urljoin(rr.url, a.get('href')))[0]
+                  p = urlparse(u)
+                  if p.netloc == 'award.tabelog.com':
+                      m = slug_re.search(p.path)
+                      if m:
+                          add_slug(m.group(1), 'nav:' + seed)
+
+          # Search-engine sitemap-like endpoint in the site HTML sometimes contains JSON URLs.
+          for seed in ['https://award.tabelog.com/', 'https://award.tabelog.com/hyakumeiten']:
+              rr = get(seed)
+              if not rr or rr.status_code != 200:
+                  continue
+              for slug in re.findall(r'/hyakumeiten/([a-z0-9_\-]+)/', rr.text, re.I):
+                  add_slug(slug, 'html-regex:' + seed)
+
+          # Directly verify /2020 for every discovered slug. A valid category must remain on 2020 and contain restaurant detail links.
+          verified = []
+          invalid = []
+          for slug in sorted(slugs):
+              url = f'https://award.tabelog.com/hyakumeiten/{slug}/2020'
+              rr = get(url)
+              if not rr:
+                  invalid.append({'slug':slug,'url':url,'reason':'request_error','sources':sorted(source_by_slug.get(slug,[]))})
+                  continue
+              soup = BeautifulSoup(rr.content, 'lxml')
+              title = soup.title.get_text(' ', strip=True) if soup.title else ''
+              text_head = soup.get_text(' ', strip=True)[:10000]
+              links = []
+              for a in soup.select('a[href]'):
+                  href = urldefrag(urljoin(rr.url, a.get('href')))[0]
+                  if rest_re.match(href):
+                      tid = re.search(r'/(\d+)/?$', urlparse(href).path)
+                      links.append({
+                          'name': a.get_text(' ', strip=True),
+                          'url': href,
+                          'tabelog_id': tid.group(1) if tid else '',
+                          'classes': a.get('class', []),
+                          'parent_classes': a.parent.get('class', []) if a.parent else [],
+                      })
+              unique = {}
+              for x in links:
+                  unique.setdefault(x['tabelog_id'] or x['url'], x)
+              final_path = urlparse(rr.url).path.rstrip('/')
+              valid = rr.status_code == 200 and final_path.endswith(f'/hyakumeiten/{slug}/2020') and ('2020' in title or '2020' in text_head) and len(unique) >= 1
+              record = {
+                  'slug': slug,
+                  'url': url,
+                  'status': rr.status_code,
+                  'final_url': rr.url,
+                  'title': title,
+                  'restaurant_count': len(unique),
+                  'sample': list(unique.values())[:8],
+                  'sources': sorted(source_by_slug.get(slug,[])),
+              }
+              if valid:
+                  verified.append(record)
+                  (OUT/f'{slug}_2020.html').write_bytes(rr.content)
+              else:
+                  record['reason'] = 'not_a_live_2020_roster'
+                  invalid.append(record)
+
+          summary = {
+              'discovered_slug_count': len(slugs),
+              'verified_category_count': len(verified),
+              'verified_total_listings': sum(x['restaurant_count'] for x in verified),
+              'categories': [{'slug':x['slug'],'count':x['restaurant_count'],'title':x['title'],'url':x['url']} for x in verified],
+              'invalid_count': len(invalid),
+          }
+          (OUT/'categories.json').write_text(json.dumps(verified,ensure_ascii=False,indent=2),encoding='utf-8')
+          (OUT/'invalid.json').write_text(json.dumps(invalid,ensure_ascii=False,indent=2),encoding='utf-8')
+          (OUT/'summary.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2),encoding='utf-8')
+          (OUT/'logs.json').write_text(json.dumps(logs,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(summary,ensure_ascii=False,indent=2))
+          PY
+          python /tmp/discover_v2.py
+      - name: Commit discovery files
+        run: |
+          git add discovery_v2/
+          if git diff --cached --quiet; then
+            echo "No discovery changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Discover all 2020 Hyakumeiten categories"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
