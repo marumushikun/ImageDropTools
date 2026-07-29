@@ -1,0 +1,550 @@
+[
+  {
+    "slug": "asia_ethnic_east",
+    "url": "https://award.tabelog.com/hyakumeiten/asia_ethnic_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "asia_ethnic_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/asia_ethnic_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "asia_ethnic_west",
+    "url": "https://award.tabelog.com/hyakumeiten/asia_ethnic_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "bar",
+    "url": "https://award.tabelog.com/hyakumeiten/bar/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "bread",
+    "url": "https://award.tabelog.com/hyakumeiten/bread/2020",
+    "reason": "request_error",
+    "sources": [
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "cafe_east",
+    "url": "https://award.tabelog.com/hyakumeiten/cafe_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "cafe_west",
+    "url": "https://award.tabelog.com/hyakumeiten/cafe_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "categories",
+    "url": "https://award.tabelog.com/hyakumeiten/categories/2020",
+    "reason": "request_error",
+    "sources": [
+      "html-regex:https://award.tabelog.com/hyakumeiten"
+    ]
+  },
+  {
+    "slug": "chinese_east",
+    "url": "https://award.tabelog.com/hyakumeiten/chinese_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "chinese_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/chinese_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "chinese_west",
+    "url": "https://award.tabelog.com/hyakumeiten/chinese_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "creative_innovative",
+    "url": "https://award.tabelog.com/hyakumeiten/creative_innovative/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "dummy",
+    "url": "https://award.tabelog.com/hyakumeiten/dummy/2020",
+    "reason": "request_error",
+    "sources": [
+      "html-regex:https://award.tabelog.com/hyakumeiten"
+    ]
+  },
+  {
+    "slug": "french_east",
+    "url": "https://award.tabelog.com/hyakumeiten/french_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "french_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/french_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "french_west",
+    "url": "https://award.tabelog.com/hyakumeiten/french_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "gyoza",
+    "url": "https://award.tabelog.com/hyakumeiten/gyoza/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "hamburger",
+    "url": "https://award.tabelog.com/hyakumeiten/hamburger/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "ice_gelato",
+    "url": "https://award.tabelog.com/hyakumeiten/ice_gelato/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "italian_east",
+    "url": "https://award.tabelog.com/hyakumeiten/italian_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "italian_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/italian_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "italian_west",
+    "url": "https://award.tabelog.com/hyakumeiten/italian_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "izakaya_east",
+    "url": "https://award.tabelog.com/hyakumeiten/izakaya_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "izakaya_west",
+    "url": "https://award.tabelog.com/hyakumeiten/izakaya_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "japanese_east",
+    "url": "https://award.tabelog.com/hyakumeiten/japanese_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "japanese_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/japanese_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "japanese_west",
+    "url": "https://award.tabelog.com/hyakumeiten/japanese_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "kissaten",
+    "url": "https://award.tabelog.com/hyakumeiten/kissaten/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "okonomiyaki",
+    "url": "https://award.tabelog.com/hyakumeiten/okonomiyaki/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "pizza",
+    "url": "https://award.tabelog.com/hyakumeiten/pizza/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "ramen_aichi",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_aichi/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "ramen_hokkaido",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_hokkaido/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "ramen_kanagawa",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_kanagawa/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "ramen_osaka",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_osaka/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "shokudo",
+    "url": "https://award.tabelog.com/hyakumeiten/shokudo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "soba",
+    "url": "https://award.tabelog.com/hyakumeiten/soba/2020",
+    "reason": "request_error",
+    "sources": [
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "soba_east",
+    "url": "https://award.tabelog.com/hyakumeiten/soba_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "soba_west",
+    "url": "https://award.tabelog.com/hyakumeiten/soba_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "spanish",
+    "url": "https://award.tabelog.com/hyakumeiten/spanish/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "steak_east",
+    "url": "https://award.tabelog.com/hyakumeiten/steak_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "steak_west",
+    "url": "https://award.tabelog.com/hyakumeiten/steak_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "sukiyaki_shabushabu",
+    "url": "https://award.tabelog.com/hyakumeiten/sukiyaki_shabushabu/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "sushi_east",
+    "url": "https://award.tabelog.com/hyakumeiten/sushi_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "sushi_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/sushi_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "sushi_west",
+    "url": "https://award.tabelog.com/hyakumeiten/sushi_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "tachinomi",
+    "url": "https://award.tabelog.com/hyakumeiten/tachinomi/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "tempura",
+    "url": "https://award.tabelog.com/hyakumeiten/tempura/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "tonkatsu",
+    "url": "https://award.tabelog.com/hyakumeiten/tonkatsu/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "toriryori",
+    "url": "https://award.tabelog.com/hyakumeiten/toriryori/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "udon",
+    "url": "https://award.tabelog.com/hyakumeiten/udon/2020",
+    "reason": "request_error",
+    "sources": [
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "udon_kagawa",
+    "url": "https://award.tabelog.com/hyakumeiten/udon_kagawa/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "unagi",
+    "url": "https://award.tabelog.com/hyakumeiten/unagi/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "wagashi_east",
+    "url": "https://award.tabelog.com/hyakumeiten/wagashi_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "wagashi_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/wagashi_tokyo/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "wagashi_west",
+    "url": "https://award.tabelog.com/hyakumeiten/wagashi_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yakiniku",
+    "url": "https://award.tabelog.com/hyakumeiten/yakiniku/2020",
+    "reason": "request_error",
+    "sources": [
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "yakitori",
+    "url": "https://award.tabelog.com/hyakumeiten/yakitori/2020",
+    "reason": "request_error",
+    "sources": [
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "yakitori_east",
+    "url": "https://award.tabelog.com/hyakumeiten/yakitori_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yakitori_west",
+    "url": "https://award.tabelog.com/hyakumeiten/yakitori_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yoshoku_east",
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku_east/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yoshoku_west",
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku_west/2020",
+    "reason": "request_error",
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  }
+]

@@ -1,0 +1,1990 @@
+[
+  {
+    "slug": "bread_east",
+    "url": "https://award.tabelog.com/hyakumeiten/bread_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/bread_east/2020",
+    "title": "食べログ パン EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 NAOZO 栃木県 那須塩原市 木曜日 3.66",
+        "url": "https://tabelog.com/tochigi/A0905/A090501/9002708/",
+        "tabelog_id": "9002708",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ルヴァン 信州上田店 長野県 上田市 水曜・第１木曜（春・夏・冬休暇あり） 3.64",
+        "url": "https://tabelog.com/nagano/A2004/A200401/20000537/",
+        "tabelog_id": "20000537",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ベルテコ 埼玉県 東所沢駅 水曜日 3.59",
+        "url": "https://tabelog.com/saitama/A1106/A110601/11003447/",
+        "tabelog_id": "11003447",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 川越ベーカリー 楽楽 埼玉県 川越市 月曜日（ＨＰに休日はＵＰされています。要確認） 外カフェは月・火定休 3.67",
+        "url": "https://tabelog.com/saitama/A1103/A110303/11005320/",
+        "tabelog_id": "11005320",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ブランジェリー ぱぴ・ぱん 愛知県 植田（名古屋市営）駅 日曜・隔週月曜 3.65",
+        "url": "https://tabelog.com/aichi/A2301/A230111/23004064/",
+        "tabelog_id": "23004064",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ブーランジェリー メチエ パークシティ武蔵小杉ザ・ガーデン 神奈川県 武蔵小杉駅 水曜、木曜 3.58",
+        "url": "https://tabelog.com/kanagawa/A1405/A140504/14071269/",
+        "tabelog_id": "14071269",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ラ ベルコリーヌ 神奈川県 たまプラーザ駅 火曜日 3.59",
+        "url": "https://tabelog.com/kanagawa/A1401/A140201/14000431/",
+        "tabelog_id": "14000431",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 nico 神奈川県 平塚駅 月曜日・火曜日 3.58",
+        "url": "https://tabelog.com/kanagawa/A1404/A140407/14054459/",
+        "tabelog_id": "14054459",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "bread_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/bread_tokyo/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/bread_tokyo/2020",
+    "title": "食べログ パン TOKYO 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "ラ ブティック ドゥ ジョエル・ロブション 恵比寿ガーデンプレイス店 東京都 恵比寿駅 不定休（恵比寿ガーデンプレイスに準ずる） 3.79",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13014064/",
+        "tabelog_id": "13014064",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 えんツコ堂 製パン 東京都 西荻窪駅 第1•3•5火曜日 月曜 3.69",
+        "url": "https://tabelog.com/tokyo/A1319/A131907/13060088/",
+        "tabelog_id": "13060088",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ル・グルニエ・ア・パン アトレ恵比寿店 東京都 恵比寿駅 不定休 (アトレ恵比寿に準ずる) 3.71",
+        "url": "https://tabelog.com/tokyo/A1303/A130302/13194633/",
+        "tabelog_id": "13194633",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ヴァン ドゥ リュド 尾山台店 東京都 尾山台駅 元日のみ 3.72",
+        "url": "https://tabelog.com/tokyo/A1317/A131715/13140110/",
+        "tabelog_id": "13140110",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "VIRON 東京都 東京駅 不定休（東京ビルＴＯＫＩＡに準ずる） 3.88",
+        "url": "https://tabelog.com/tokyo/A1302/A130201/13043904/",
+        "tabelog_id": "13043904",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "パネッテリア・アリエッタ 五反田本店 東京都 五反田駅 月曜日、火曜日（但し、祝祭日の場合は営業） 3.81",
+        "url": "https://tabelog.com/tokyo/A1316/A131603/13019888/",
+        "tabelog_id": "13019888",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 TOLO PAN TOKYO 東京都 池尻大橋駅 毎週火曜日、第1・3水曜日 3.72",
+        "url": "https://tabelog.com/tokyo/A1317/A131705/13093803/",
+        "tabelog_id": "13093803",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ル パン ドゥ ジョエル・ロブション 渋谷ヒカリエShinQs店 東京都 渋谷駅 不定休※渋谷ヒカリエに準ずる 3.79",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13140263/",
+        "tabelog_id": "13140263",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "bread_west",
+    "url": "https://award.tabelog.com/hyakumeiten/bread_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/bread_west/2020",
+    "title": "食べログ パン WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 キルシュブリューテ 大阪府 西長堀駅 月曜日・日曜日 3.66",
+        "url": "https://tabelog.com/osaka/A2701/A270105/27059403/",
+        "tabelog_id": "27059403",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 手作りパン工房 コネルヤ 京都府 二条駅 不定休 3.61",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26002695/",
+        "tabelog_id": "26002695",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 グランディール 御池店 京都府 京都市役所前駅 無休 3.68",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26023110/",
+        "tabelog_id": "26023110",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 しろはとベーカリー 京都府 烏丸御池駅 日曜日・月曜日 3.62",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26021765/",
+        "tabelog_id": "26021765",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "パネ・ポルチーニ 大阪府 福島駅 日曜、その他不定休 3.75",
+        "url": "https://tabelog.com/osaka/A2701/A270108/27049674/",
+        "tabelog_id": "27049674",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ブーランジェ エス・カガワ 大阪府 中崎町駅 火曜、水曜 3.74",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27059555/",
+        "tabelog_id": "27059555",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 アルチザナル 京都府 出町柳駅 水曜・木曜 定休 3.69",
+        "url": "https://tabelog.com/kyoto/A2601/A260302/26020779/",
+        "tabelog_id": "26020779",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 リョウイチヤマウチ 兵庫県 苦楽園口駅 月曜・金曜（※201９年１月から） 3.71",
+        "url": "https://tabelog.com/hyogo/A2803/A280301/28006731/",
+        "tabelog_id": "28006731",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "curry_east",
+    "url": "https://award.tabelog.com/hyakumeiten/curry_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/curry_east/2020",
+    "title": "食べログ カレー EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "札幌スープカレー専門店エスパーイトウ 八軒総本店 北海道 八軒駅 無し（年末年始、機器メンテナンス、社内ミーティングの場合はお休みを頂く場合がございます。SNSなどでご確認お願いいたします） 3.6",
+        "url": "https://tabelog.com/hokkaido/A0101/A010204/1009667/",
+        "tabelog_id": "1009667",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 西屯田通りスープカレー本舗 北海道 西線９条旭山公園通駅 無休 3.61",
+        "url": "https://tabelog.com/hokkaido/A0101/A010104/1007981/",
+        "tabelog_id": "1007981",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ベンベラ・ネットワークカンパニー 北海道 西８丁目駅 不定休(Twitter告知あり) 3.7",
+        "url": "https://tabelog.com/hokkaido/A0101/A010102/1000587/",
+        "tabelog_id": "1000587",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "村上カレー店・プルプル 北海道 中央区役所前駅 日曜 3.68",
+        "url": "https://tabelog.com/hokkaido/A0101/A010102/1000476/",
+        "tabelog_id": "1000476",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "べいらっきょ 神奈川県 馬車道駅 不定休 3.61",
+        "url": "https://tabelog.com/kanagawa/A1401/A140104/14000111/",
+        "tabelog_id": "14000111",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "天竺 札幌清田本店 北海道 札幌市清田区 火曜日 3.64",
+        "url": "https://tabelog.com/hokkaido/A0101/A010304/1039442/",
+        "tabelog_id": "1039442",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ラマイ 札幌本店 北海道 札幌市豊平区 不定休 3.64",
+        "url": "https://tabelog.com/hokkaido/A0101/A010303/1001470/",
+        "tabelog_id": "1001470",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ラマイ 札幌北33条店 北海道 北３４条駅 年中無休 3.64",
+        "url": "https://tabelog.com/hokkaido/A0101/A010202/1007585/",
+        "tabelog_id": "1007585",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "curry_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/curry_tokyo/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/curry_tokyo/2020",
+    "title": "食べログ カレー TOKYO 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "トプカ 神田本店 東京都 淡路町駅 無休 3.78",
+        "url": "https://tabelog.com/tokyo/A1310/A131002/13000377/",
+        "tabelog_id": "13000377",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "葡萄舎 東京都 神田駅 日曜日（ただし、ランチは土曜日、月曜日、祝日も休み） 3.77",
+        "url": "https://tabelog.com/tokyo/A1310/A131002/13036906/",
+        "tabelog_id": "13036906",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "カーン・ケバブ・ビリヤニ 東京都 新橋駅 無休 銀座博品館 6Fにある 南インド&パキスタン料理 カンケバブビリヤ二どうぞよろしくお願いします。 3.78",
+        "url": "https://tabelog.com/tokyo/A1301/A130103/13170211/",
+        "tabelog_id": "13170211",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "サンバレーホテル 東京都 三軒茶屋駅 火・水・木曜日(＋臨休あり) 3.82",
+        "url": "https://tabelog.com/tokyo/A1317/A131706/13195313/",
+        "tabelog_id": "13195313",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "タンドール料理ひつじや 日比谷店 東京都 日比谷駅 2017年12月より、日比谷シャンテ新装開店により再オープン 3.73",
+        "url": "https://tabelog.com/tokyo/A1301/A130102/13007608/",
+        "tabelog_id": "13007608",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "アジアカレーハウス 東京都 錦糸町駅 年末年始 3.76",
+        "url": "https://tabelog.com/tokyo/A1312/A131201/13168072/",
+        "tabelog_id": "13168072",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ガヴィアル 東京都 神保町駅 無休 3.76",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13000358/",
+        "tabelog_id": "13000358",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "パンチマハル 東京都 神保町駅 日・祝 3.75",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13026681/",
+        "tabelog_id": "13026681",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "curry_west",
+    "url": "https://award.tabelog.com/hyakumeiten/curry_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/curry_west/2020",
+    "title": "食べログ カレー WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "SOMA 大阪府 中津（阪急）駅 金曜日・日曜日(※臨時休業あり) 3.73",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27065233/",
+        "tabelog_id": "27065233",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "マダム・カリー 大阪府 北浜駅 土・日・祝 3.61",
+        "url": "https://tabelog.com/osaka/A2701/A270102/27050578/",
+        "tabelog_id": "27050578",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "スパイスカリー バビルの塔 大阪府 谷町四丁目駅 日祝・月曜日 3.71",
+        "url": "https://tabelog.com/osaka/A2701/A270104/27064588/",
+        "tabelog_id": "27064588",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 curry&cafe Warung 大阪府 西長堀駅 月曜日 第２第４火曜日 3.67",
+        "url": "https://tabelog.com/osaka/A2701/A270105/27074470/",
+        "tabelog_id": "27074470",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "スパイスチャンバー 京都府 四条（京都市営）駅 日曜 月曜休みの場合もあり HPに掲載の営業カレンダー要確認 3.71",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26015938/",
+        "tabelog_id": "26015938",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "カマル 京都府 烏丸御池駅 無休 3.66",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26019639/",
+        "tabelog_id": "26019639",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "アリーズ キッチン 大阪府 心斎橋駅 無休（臨時休業あり） 3.68",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27045608/",
+        "tabelog_id": "27045608",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "Spice&Dining KALA 福岡県 中間市 金・日祝、９月８日より営業再開 3.82",
+        "url": "https://tabelog.com/fukuoka/A4006/A400603/40035804/",
+        "tabelog_id": "40035804",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "ramen_east",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/ramen_east/2020",
+    "title": "食べログ ラーメン EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "啜磨専科 神奈川県 港南中央駅 木曜 3.74",
+        "url": "https://tabelog.com/kanagawa/A1401/A140307/14043755/",
+        "tabelog_id": "14043755",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "らーめん 鶏喰 神奈川県 吉野町駅 月曜（※祝祭日の場合も休み） 3.81",
+        "url": "https://tabelog.com/kanagawa/A1401/A140306/14048864/",
+        "tabelog_id": "14048864",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ラーメン 木曜日 北海道 西線９条旭山公園通駅 日曜日 3.72",
+        "url": "https://tabelog.com/hokkaido/A0101/A010104/1038229/",
+        "tabelog_id": "1038229",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "らーめん いのうえ 神奈川県 尻手駅 月曜（※祝日の場合は営業、翌日火曜が定休） 3.75",
+        "url": "https://tabelog.com/kanagawa/A1401/A140210/14054147/",
+        "tabelog_id": "14054147",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "家系総本山 吉村家 神奈川県 平沼橋駅 月曜日(祝日の場合は翌火曜日)、年末年始 3.79",
+        "url": "https://tabelog.com/kanagawa/A1401/A140101/14000059/",
+        "tabelog_id": "14000059",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "兎に角 松戸本店 千葉県 松戸駅 無休（お盆時期・年末年始は休業） 3.76",
+        "url": "https://tabelog.com/chiba/A1203/A120302/12001198/",
+        "tabelog_id": "12001198",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 なるとや 愛知県 栄町駅 日曜日 3.72",
+        "url": "https://tabelog.com/aichi/A2301/A230104/23005819/",
+        "tabelog_id": "23005819",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "麺や 麗 北海道 千歳市 水曜日 3.72",
+        "url": "https://tabelog.com/hokkaido/A0107/A010701/1026411/",
+        "tabelog_id": "1026411",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "ramen_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_tokyo/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/ramen_tokyo/2020",
+    "title": "食べログ ラーメン TOKYO 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "麺屋 翔 本店 東京都 西武新宿駅 無休 ※年末年始休業 臨時休業まれにあり 3.79",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13040181/",
+        "tabelog_id": "13040181",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "らぁ麺 はやし田 新宿本店 東京都 新宿三丁目駅 無休 3.85",
+        "url": "https://tabelog.com/tokyo/A1304/A130401/13216496/",
+        "tabelog_id": "13216496",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "麺屋ひょっとこ 交通会館店 東京都 有楽町駅 日・祝 3.79",
+        "url": "https://tabelog.com/tokyo/A1301/A130102/13046637/",
+        "tabelog_id": "13046637",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "はやし 東京都 渋谷駅 日曜・祝日 3.82",
+        "url": "https://tabelog.com/tokyo/A1303/A130301/13003367/",
+        "tabelog_id": "13003367",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "こうかいぼう 東京都 門前仲町駅 水曜・日曜（※祝日でも定休） 3.79",
+        "url": "https://tabelog.com/tokyo/A1313/A131303/13005052/",
+        "tabelog_id": "13005052",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "中華そば 児ノ木 東京都 落合駅 土曜日・日曜日・祝日 3.88",
+        "url": "https://tabelog.com/tokyo/A1319/A131901/13154006/",
+        "tabelog_id": "13154006",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "鶏こく中華 すず喜 東京都 三鷹駅 月曜 (Twitterで確認可) 3.89",
+        "url": "https://tabelog.com/tokyo/A1320/A132002/13215409/",
+        "tabelog_id": "13215409",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "麺処 銀笹 東京都 築地市場駅 日曜・祝日 3.78",
+        "url": "https://tabelog.com/tokyo/A1301/A130103/13119563/",
+        "tabelog_id": "13119563",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "ramen_west",
+    "url": "https://award.tabelog.com/hyakumeiten/ramen_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/ramen_west/2020",
+    "title": "食べログ ラーメン WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "山崎麺二郎 京都府 円町駅 月曜火曜 3.77",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26008681/",
+        "tabelog_id": "26008681",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ロックンビリーS1 兵庫県 塚口（ＪＲ）駅 月曜、毎月第３回目の月、火曜連休 3.78",
+        "url": "https://tabelog.com/hyogo/A2803/A280304/28040893/",
+        "tabelog_id": "28040893",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "中華そば 無限 大阪府 海老江駅 火曜 3.77",
+        "url": "https://tabelog.com/osaka/A2701/A270108/27053626/",
+        "tabelog_id": "27053626",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "麺のようじ 大阪府 日本橋駅 木曜日 3.76",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27072765/",
+        "tabelog_id": "27072765",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 らーめん鱗 西中島店 大阪府 西中島南方駅 無休 3.72",
+        "url": "https://tabelog.com/osaka/A2701/A270301/27082871/",
+        "tabelog_id": "27082871",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "がふうあん 兵庫県 伊丹（阪急）駅 水曜・第１第３火曜 3.74",
+        "url": "https://tabelog.com/hyogo/A2803/A280306/28022134/",
+        "tabelog_id": "28022134",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "麺や高倉二条 京都府 丸太町（京都市営）駅 年末年始のみ 3.76",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26003182/",
+        "tabelog_id": "26003182",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "貧瞋癡 富山県 氷見市 月曜 3.88",
+        "url": "https://tabelog.com/toyama/A1604/A160402/16001104/",
+        "tabelog_id": "16001104",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "sweets_east",
+    "url": "https://award.tabelog.com/hyakumeiten/sweets_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/sweets_east/2020",
+    "title": "食べログ スイーツ EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "ミッシェル・ブラン JR名古屋高島屋 愛知県 名古屋駅 JR名古屋高島屋に準ずる 3.72",
+        "url": "https://tabelog.com/aichi/A2301/A230101/23036323/",
+        "tabelog_id": "23036323",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "Paris パイ 新潟県 長岡市 月曜（祝日の場合は翌日），月２回程度 火曜休み 3.69",
+        "url": "https://tabelog.com/niigata/A1502/A150201/15002650/",
+        "tabelog_id": "15002650",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ピエールプレシュウズ 本店 愛知県 長久手市 月曜日（祝日の場合は翌日休業） 3.74",
+        "url": "https://tabelog.com/aichi/A2303/A230302/23000859/",
+        "tabelog_id": "23000859",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "覚王山 吉芋 本店 愛知県 覚王山駅 無休（年末年始を除く） 3.7",
+        "url": "https://tabelog.com/aichi/A2301/A230107/23003953/",
+        "tabelog_id": "23003953",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "シャンドワゾー 埼玉県 川口駅 不定休 3.76",
+        "url": "https://tabelog.com/saitama/A1102/A110201/11025121/",
+        "tabelog_id": "11025121",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 菓匠 花桔梗 本店 愛知県 瑞穂区役所駅 不定休 3.66",
+        "url": "https://tabelog.com/aichi/A2301/A230112/23001344/",
+        "tabelog_id": "23001344",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 細井 埼玉県 春日部市 不定休 (赤い幟が立っていたら営業) 3.64",
+        "url": "https://tabelog.com/saitama/A1102/A110204/11022003/",
+        "tabelog_id": "11022003",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ナッシュカッツェ 神奈川県 江田駅 月曜・火曜定休（不定休あり） ※年末年始休まず営業（但し短縮営業） 3.73",
+        "url": "https://tabelog.com/kanagawa/A1401/A140201/14010007/",
+        "tabelog_id": "14010007",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "sweets_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/sweets_tokyo/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/sweets_tokyo/2020",
+    "title": "食べログ スイーツ TOKYO 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 瑞穂 東京都 明治神宮前駅 日曜日、8月中旬、年末年始 3.78",
+        "url": "https://tabelog.com/tokyo/A1306/A130601/13001154/",
+        "tabelog_id": "13001154",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 ラデュレ サロン・ド・テ 銀座三越店 東京都 銀座駅 三越に準ずる 3.77",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13053865/",
+        "tabelog_id": "13053865",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "たちばな 東京都 新橋駅 日曜・祝日 3.76",
+        "url": "https://tabelog.com/tokyo/A1301/A130103/13022189/",
+        "tabelog_id": "13022189",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "クリオロ 東京本店 東京都 小竹向原駅 火曜（祝の場合は営業） 3.89",
+        "url": "https://tabelog.com/tokyo/A1322/A132202/13194959/",
+        "tabelog_id": "13194959",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "うさぎや 東京都 上野広小路駅 水曜日、お正月 3.91",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13003599/",
+        "tabelog_id": "13003599",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "御菓子処 さゝま 東京都 神保町駅 日曜日、祝日（年末年始休みあり、夏季休業あり：８月上旬10日ほど） 3.77",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13000627/",
+        "tabelog_id": "13000627",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 すずめや 東京都 池袋駅 日曜・祝日 3.85",
+        "url": "https://tabelog.com/tokyo/A1305/A130501/13009255/",
+        "tabelog_id": "13009255",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "リベルターブル 赤坂店 東京都 赤坂駅 不定休 3.86",
+        "url": "https://tabelog.com/tokyo/A1308/A130801/13160987/",
+        "tabelog_id": "13160987",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "sweets_west",
+    "url": "https://award.tabelog.com/hyakumeiten/sweets_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/sweets_west/2020",
+    "title": "食べログ スイーツ WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "Poche du Reve 兵庫県 芦屋（阪神）駅 火曜日 3.8",
+        "url": "https://tabelog.com/hyogo/A2803/A280302/28012993/",
+        "tabelog_id": "28012993",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ショコラティエ パレ ド オール 大阪 大阪府 西梅田駅 不定休（ハービスPLAZA ENTに準ずる） 3.75",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27003190/",
+        "tabelog_id": "27003190",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "洛叉庵 京都府 北大路駅 12月30日・1月1日 3.73",
+        "url": "https://tabelog.com/kyoto/A2601/A260503/26012788/",
+        "tabelog_id": "26012788",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "シェ・アガタ 京都府 三室戸駅 水曜日 木曜日 2019年10月1日より火曜日も営業しております。 3.71",
+        "url": "https://tabelog.com/kyoto/A2607/A260701/26009042/",
+        "tabelog_id": "26009042",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "クレープスタンド シャンデレール 梅田店 大阪府 大阪梅田（阪急）駅 不定休 3.72",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27053125/",
+        "tabelog_id": "27053125",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "粟餅所・澤屋 京都府 北野白梅町駅 木曜・毎月２６日 3.78",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26001539/",
+        "tabelog_id": "26001539",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 加茂みたらし茶屋 京都府 京都市左京区 水曜日（祝日営業） 3.69",
+        "url": "https://tabelog.com/kyoto/A2601/A260503/26001758/",
+        "tabelog_id": "26001758",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "中村軒 京都府 桂駅 水曜日 (祝日の場合は営業) 3.79",
+        "url": "https://tabelog.com/kyoto/A2601/A260401/26001883/",
+        "tabelog_id": "26001883",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+      "sitemap"
+    ]
+  },
+  {
+    "slug": "udon_east",
+    "url": "https://award.tabelog.com/hyakumeiten/udon_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/udon_east/2020",
+    "title": "食べログ うどん EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 ががちゃ屋 埼玉県 一本松駅 水曜 3.67",
+        "url": "https://tabelog.com/saitama/A1103/A110304/11017604/",
+        "tabelog_id": "11017604",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 四方吉うどん 吉見本店 埼玉県 比企郡吉見町 月曜 3.6",
+        "url": "https://tabelog.com/saitama/A1105/A110502/11006341/",
+        "tabelog_id": "11006341",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 手打ちうどんZ 千葉県 大網白里市 月曜・火曜（祝日の場合は営業） 3.62",
+        "url": "https://tabelog.com/chiba/A1205/A120503/12005569/",
+        "tabelog_id": "12005569",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 手打ちうどん 自遊席 神奈川県 藤沢市 月曜日 3.55",
+        "url": "https://tabelog.com/kanagawa/A1404/A140405/14014003/",
+        "tabelog_id": "14014003",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 田舎打ち 麺蔵 埼玉県 川越市 金曜 3.82",
+        "url": "https://tabelog.com/saitama/A1103/A110304/11000974/",
+        "tabelog_id": "11000974",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 うどん 有田 埼玉県 北上尾駅 不定休 3.62",
+        "url": "https://tabelog.com/saitama/A1104/A110401/11009188/",
+        "tabelog_id": "11009188",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 麦屋 埼玉県 深谷市 火曜日（月曜は昼のみ営業） 3.62",
+        "url": "https://tabelog.com/saitama/A1105/A110503/11024696/",
+        "tabelog_id": "11024696",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 お多福 千葉県 鎌ケ谷大仏駅 月曜（※祝日の場合 翌日休） 3.57",
+        "url": "https://tabelog.com/chiba/A1203/A120303/12007471/",
+        "tabelog_id": "12007471",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "udon_west",
+    "url": "https://award.tabelog.com/hyakumeiten/udon_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/udon_west/2020",
+    "title": "食べログ うどん WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 105,
+    "sample": [
+      {
+        "name": "初選出 うぶしな 香川県 綾歌郡宇多津町 水曜日(祝日の場合は翌日) 3.76",
+        "url": "https://tabelog.com/kagawa/A3702/A370202/37000231/",
+        "tabelog_id": "37000231",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "うどん本陣 山田家 讃岐本店 香川県 高松市 無休 年末年始も休まず営業致します。（31日のみ15:00で閉店） 3.86",
+        "url": "https://tabelog.com/kagawa/A3701/A370101/37000002/",
+        "tabelog_id": "37000002",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 手打麺や 大島 香川県 高松市 第１、第３、第5日曜日 3.73",
+        "url": "https://tabelog.com/kagawa/A3701/A370101/37000224/",
+        "tabelog_id": "37000224",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "手打うどん たむら 香川県 綾歌郡綾川町 日曜・祝日 3.96",
+        "url": "https://tabelog.com/kagawa/A3702/A370202/37000077/",
+        "tabelog_id": "37000077",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "三嶋製麺所 香川県 仲多度郡まんのう町 金曜日 3.76",
+        "url": "https://tabelog.com/kagawa/A3703/A370302/37000140/",
+        "tabelog_id": "37000140",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "うどん ゆきの 大阪府 西田辺駅 日曜・祝日 3.76",
+        "url": "https://tabelog.com/osaka/A2701/A270405/27000574/",
+        "tabelog_id": "27000574",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "道頓堀 今井 本店 大阪府 大阪難波駅 水曜日 3.66",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27001289/",
+        "tabelog_id": "27001289",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "うどん工房悠々 兵庫県 塚口（阪急）駅 月曜 3.74",
+        "url": "https://tabelog.com/hyogo/A2803/A280304/28029478/",
+        "tabelog_id": "28029478",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yakiniku_east",
+    "url": "https://award.tabelog.com/hyakumeiten/yakiniku_east/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yakiniku_east/2020",
+    "title": "食べログ 焼肉 EAST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 にくがとう 名古屋店 愛知県 栄町駅 不定休 3.6",
+        "url": "https://tabelog.com/aichi/A2301/A230103/23064227/",
+        "tabelog_id": "23064227",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 焼肉グレート 宇都宮駅前店 栃木県 宇都宮市 無休 3.56",
+        "url": "https://tabelog.com/tochigi/A0901/A090101/9011956/",
+        "tabelog_id": "9011956",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 焼肉旬やさい ファンボギ 岐阜県 岐阜市 日曜日・第３月曜日 3.67",
+        "url": "https://tabelog.com/gifu/A2101/A210101/21009615/",
+        "tabelog_id": "21009615",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 炭火和牛焼肉 じろうや 愛知県 久屋大通駅 日曜日 （日曜が祝日の場合月曜定休） 3.55",
+        "url": "https://tabelog.com/aichi/A2301/A230103/23004583/",
+        "tabelog_id": "23004583",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "焼肉 大河 愛知県 新栄町駅 不定休 3.63",
+        "url": "https://tabelog.com/aichi/A2301/A230104/23046007/",
+        "tabelog_id": "23046007",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "炭火焼 ぐら 塩釜本店 宮城県 塩竈市 日曜日。ただし日曜祝日の場合は営業し、月曜休みです。 3.58",
+        "url": "https://tabelog.com/miyagi/A0404/A040404/4008582/",
+        "tabelog_id": "4008582",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 もうもう亭 福島県 郡山市 無休 3.57",
+        "url": "https://tabelog.com/fukushima/A0702/A070201/7000807/",
+        "tabelog_id": "7000807",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "李昇 本館 愛知県 久屋大通駅 無休 3.72",
+        "url": "https://tabelog.com/aichi/A2301/A230103/23007886/",
+        "tabelog_id": "23007886",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yakiniku_tokyo",
+    "url": "https://award.tabelog.com/hyakumeiten/yakiniku_tokyo/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yakiniku_tokyo/2020",
+    "title": "食べログ 焼肉 TOKYO 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "生粋 東京都 末広町駅 第1・3・5月曜日 3.79",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13165294/",
+        "tabelog_id": "13165294",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "正泰苑 総本店 東京都 荒川七丁目駅 無休（年末年始休み有） 3.84",
+        "url": "https://tabelog.com/tokyo/A1324/A132401/13003776/",
+        "tabelog_id": "13003776",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "焼肉 矢澤 東京 東京都 日本橋駅 年末年始、日曜 3.7",
+        "url": "https://tabelog.com/tokyo/A1302/A130202/13168322/",
+        "tabelog_id": "13168322",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 三幸園 東京都 麻布十番駅 水曜日（水曜祭日営業の場合は木曜休み） 3.68",
+        "url": "https://tabelog.com/tokyo/A1307/A130702/13002823/",
+        "tabelog_id": "13002823",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "在市 月島本店 東京都 月島駅 無し（ただし、月により変動があるためお知らせ欄を参照願います。） 3.97",
+        "url": "https://tabelog.com/tokyo/A1313/A131302/13095398/",
+        "tabelog_id": "13095398",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "ら・ぼうふ 用賀本店 東京都 用賀駅 年末年始 3.7",
+        "url": "https://tabelog.com/tokyo/A1317/A131707/13005123/",
+        "tabelog_id": "13005123",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "肉匠堀越 東京都 広尾駅 年中無休 3.85",
+        "url": "https://tabelog.com/tokyo/A1307/A130703/13183716/",
+        "tabelog_id": "13183716",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "正泰苑 銀座店 東京都 東銀座駅 無休 3.73",
+        "url": "https://tabelog.com/tokyo/A1301/A130101/13016578/",
+        "tabelog_id": "13016578",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yakiniku_west",
+    "url": "https://award.tabelog.com/hyakumeiten/yakiniku_west/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yakiniku_west/2020",
+    "title": "食べログ 焼肉 WEST 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "初選出 石垣島 きたうち牧場 美崎店 沖縄県 石垣市 9/1(火) 8(火) 15(火) 23(水) 29(火) 3.59",
+        "url": "https://tabelog.com/okinawa/A4705/A470501/47001554/",
+        "tabelog_id": "47001554",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 焼肉 弘商店 烏丸錦 京都府 烏丸駅 無休（12/31・1/1除く） 3.59",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26016840/",
+        "tabelog_id": "26016840",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 焼肉&グリル　貴坂 兵庫県 新開地駅 水曜日 3.59",
+        "url": "https://tabelog.com/hyogo/A2801/A280109/28031858/",
+        "tabelog_id": "28031858",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "利花苑 大名本店 福岡県 赤坂駅 第１、第3 水曜日 ※6月は休まず営業致します。 3.63",
+        "url": "https://tabelog.com/fukuoka/A4001/A400104/40000443/",
+        "tabelog_id": "40000443",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 味楽園 兵庫県 出屋敷駅 月曜日（但し 祝日、祭日は営業で、翌日振り替え休業） 3.59",
+        "url": "https://tabelog.com/hyogo/A2803/A280304/28001406/",
+        "tabelog_id": "28001406",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "満月 兵庫県 西元町駅 火曜日 3.72",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28000918/",
+        "tabelog_id": "28000918",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "初選出 厳選和牛 焼肉 犇屋 天満本店 大阪府 天神橋筋六丁目駅 不定休(12月31日・1月1日) 3.59",
+        "url": "https://tabelog.com/osaka/A2701/A270103/27046669/",
+        "tabelog_id": "27046669",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "炭焼肉 石田屋。 本店 兵庫県 三宮（神戸市営）駅 無 3.66",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28003841/",
+        "tabelog_id": "28003841",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/",
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  },
+  {
+    "slug": "yoshoku",
+    "url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "status": 200,
+    "final_url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020",
+    "title": "食べログ 洋食 百名店 2020 [食べログ]",
+    "restaurant_count": 100,
+    "sample": [
+      {
+        "name": "レストラン桂 東京都 三越前駅 日・祝 3.62",
+        "url": "https://tabelog.com/tokyo/A1302/A130202/13011199/",
+        "tabelog_id": "13011199",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "キッチン南海 神保町店 東京都 神保町駅 日曜・祝日 3.73",
+        "url": "https://tabelog.com/tokyo/A1310/A131003/13000612/",
+        "tabelog_id": "13000612",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "キッチンさくらい 東京都 御徒町駅 火曜日 ※祝日の場合のみ翌日休み ※4/30(火)はお休みです。 3.67",
+        "url": "https://tabelog.com/tokyo/A1311/A131101/13118917/",
+        "tabelog_id": "13118917",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "グリル グランド 東京都 浅草（つくばＥＸＰ）駅 日曜、月曜 3.77",
+        "url": "https://tabelog.com/tokyo/A1311/A131102/13008702/",
+        "tabelog_id": "13008702",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "グリル 小宝 京都府 東山駅 火曜・水曜・12/31～1/3 3.66",
+        "url": "https://tabelog.com/kyoto/A2601/A260301/26000009/",
+        "tabelog_id": "26000009",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "プクプク亭 神奈川県 日吉駅 月曜日・第２火曜日 3.66",
+        "url": "https://tabelog.com/kanagawa/A1401/A140204/14042473/",
+        "tabelog_id": "14042473",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "新富士本店 大阪府 岸里玉出駅 水曜日 3.68",
+        "url": "https://tabelog.com/osaka/A2701/A270406/27019800/",
+        "tabelog_id": "27019800",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      },
+      {
+        "name": "明治軒 大阪府 心斎橋駅 水曜（水曜が祝日の場合は翌日） 3.69",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27001834/",
+        "tabelog_id": "27001834",
+        "classes": [
+          "hyakumeiten-shop__target",
+          "js-sitecatalyst-link-track"
+        ],
+        "parent_classes": [
+          "hyakumeiten-shop__item"
+        ]
+      }
+    ],
+    "sources": [
+      "nav:https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "discovered_slug_count": 79,
+  "verified_category_count": 18,
+  "verified_total_listings": 1805,
+  "categories": [
+    {
+      "slug": "bread_east",
+      "count": 100,
+      "title": "食べログ パン EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/bread_east/2020"
+    },
+    {
+      "slug": "bread_tokyo",
+      "count": 100,
+      "title": "食べログ パン TOKYO 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/bread_tokyo/2020"
+    },
+    {
+      "slug": "bread_west",
+      "count": 100,
+      "title": "食べログ パン WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/bread_west/2020"
+    },
+    {
+      "slug": "curry_east",
+      "count": 100,
+      "title": "食べログ カレー EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_east/2020"
+    },
+    {
+      "slug": "curry_tokyo",
+      "count": 100,
+      "title": "食べログ カレー TOKYO 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_tokyo/2020"
+    },
+    {
+      "slug": "curry_west",
+      "count": 100,
+      "title": "食べログ カレー WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/curry_west/2020"
+    },
+    {
+      "slug": "ramen_east",
+      "count": 100,
+      "title": "食べログ ラーメン EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/ramen_east/2020"
+    },
+    {
+      "slug": "ramen_tokyo",
+      "count": 100,
+      "title": "食べログ ラーメン TOKYO 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/ramen_tokyo/2020"
+    },
+    {
+      "slug": "ramen_west",
+      "count": 100,
+      "title": "食べログ ラーメン WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/ramen_west/2020"
+    },
+    {
+      "slug": "sweets_east",
+      "count": 100,
+      "title": "食べログ スイーツ EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/sweets_east/2020"
+    },
+    {
+      "slug": "sweets_tokyo",
+      "count": 100,
+      "title": "食べログ スイーツ TOKYO 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/sweets_tokyo/2020"
+    },
+    {
+      "slug": "sweets_west",
+      "count": 100,
+      "title": "食べログ スイーツ WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/sweets_west/2020"
+    },
+    {
+      "slug": "udon_east",
+      "count": 100,
+      "title": "食べログ うどん EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/udon_east/2020"
+    },
+    {
+      "slug": "udon_west",
+      "count": 105,
+      "title": "食べログ うどん WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/udon_west/2020"
+    },
+    {
+      "slug": "yakiniku_east",
+      "count": 100,
+      "title": "食べログ 焼肉 EAST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/yakiniku_east/2020"
+    },
+    {
+      "slug": "yakiniku_tokyo",
+      "count": 100,
+      "title": "食べログ 焼肉 TOKYO 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/yakiniku_tokyo/2020"
+    },
+    {
+      "slug": "yakiniku_west",
+      "count": 100,
+      "title": "食べログ 焼肉 WEST 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/yakiniku_west/2020"
+    },
+    {
+      "slug": "yoshoku",
+      "count": 100,
+      "title": "食べログ 洋食 百名店 2020 [食べログ]",
+      "url": "https://award.tabelog.com/hyakumeiten/yoshoku/2020"
+    }
+  ],
+  "invalid_count": 61
+}
