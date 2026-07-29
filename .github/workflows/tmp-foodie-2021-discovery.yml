@@ -24,7 +24,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
       - name: Discover 2021 official lists
-        run: python scripts/discover_foodie_2021.py
+        run: |
+          python scripts/discover_foodie_2021.py
+          python scripts/debug_foodie_2021_markup.py
       - name: Commit generated discovery files
         run: |
           git add generated_2021/
